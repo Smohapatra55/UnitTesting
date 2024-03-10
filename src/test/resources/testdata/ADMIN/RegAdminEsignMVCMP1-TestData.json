@@ -1,0 +1,19 @@
+{
+  "testData": {
+    "TC_001": {
+      "uiType": "mvc"
+    },
+    "commonTestData": {
+      "organizationSaveMessage": "Organization saved.",
+      "Validate Identity": "chkIdVerification",
+      "Passcode Only Validation": "chkSupportPasscode",
+      "DisableSendEmailRequestAgent": "DisableSendEmailRequestAgent",
+      "DisableSignNowAgent": "DisableSignNowAgent",
+      "DisableSignNow": "DisableSignNow",
+      "DisableSendEmailRequest": "DisableSendEmailRequest"
+    },
+    "TC_005": {
+      "uiType": "mvc"
+    }
+  }
+}

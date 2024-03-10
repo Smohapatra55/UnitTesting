@@ -1,0 +1,32 @@
+{
+  "testData": {
+    "TC_003": {
+      "product": "FL024 ENR Parent Product for Master",
+      "newActivityName": "AT FL024 ENR Parent Product for Master 230251622",
+      "jurisdiction": "Alabama",
+      "secondNewProductName": "Master Agreement For AT FL024 ENR Parent Product for Master 131259389",
+      "newProductName": "AT FL024 ENR Parent Product for Master 230251622",
+      "message": "Failed to create master agreement application for CUSIPID 'ENRCA01'."
+    },
+    "TC_002": {
+      "product": "FL024 ENR Parent Product for Master",
+      "newActivityName": "AT FL024 ENR Parent Product for Master 210238557",
+      "jurisdiction": "Alabama",
+      "secondNewProductName": "Master Agreement For AT FL024 ENR Parent Product for Master 131259389",
+      "newProductName": "AT FL024 ENR Parent Product for Master 210238557"
+    },
+    "TC_001": {
+      "product": "FL024 ENR Parent Product for Master",
+      "newActivityName": "AT FL024 ENR Parent Product for Master 230215292",
+      "jurisdiction": "Alabama",
+      "secondNewProductName": "Master Agreement For AT FL024 ENR Parent Product for Master 131259389",
+      "newProductName": "AT FL024 ENR Parent Product for Master 230215292"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value",
+      "deleteRecords": "ITButtonInput   far fa-trash-alt",
+      "dataGrids": "dataGrid__row"
+    }
+  }
+}

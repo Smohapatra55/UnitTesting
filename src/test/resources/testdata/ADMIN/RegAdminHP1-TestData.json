@@ -1,0 +1,154 @@
+{
+  "testData": {
+    "TC_001": {
+      "groupSaveMessage": "Group saved.",
+      "product": "FirmManagement",
+      "newActivityName": "AT FirmManagement 090111810",
+      "jurisdiction": "Arizona",
+      "uiType": "mvc",
+      "newProductName": "AT FirmManagement 090111810"
+    },
+    "TC_002": {
+      "jurisdiction": "Alabama",
+      "uiType": "mvc"
+    },
+    "TC_003": {
+      "groupSaveMessage": "Group saved.",
+      "product": "React ESign Product",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc"
+    },
+    "TC_004": {
+      "product": "RV CUSIP APP PRODUCT 1",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc"
+    },
+    "TC_005": {
+      "product": "RV CUSIP ACCOUNT OPENING 1",
+      "newActivityName": "AT RV CUSIP ACCOUNT OPENING 1 090135682",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT RV CUSIP ACCOUNT OPENING 1 090135682"
+    },
+    "TC_006": {
+      "product": "RV CUSIP ILLUSTRATION PRODUCT 1",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc"
+    },
+    "TC_007": {
+      "product": "RV CUSIP APP PRODUCT 2",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc"
+    },
+    "TC_008": {
+      "groupSaveMessage": "Group saved.",
+      "product": "React ESign Product",
+      "Search by Product Name or CUSIP": "txtProductSearch",
+      "Product Name": "SelectedProduct_MarketingName",
+      "CUSIP ID": "SelectedProduct_CUSPID"
+    },
+    "TC_009": {
+      "SectionBreak12": "Arrangements",
+      "SectionBreak11": "Riders",
+      "groupSaveMessage": "Group saved.",
+      "product": "React ESign Product",
+      "SectionBreak10": "Payment Details",
+      "SectionBreak16": "SB Last",
+      "SectionBreak15": "Ancillary Form",
+      "SectionBreak14": "Suitability",
+      "Product Name": "SelectedProduct_MarketingName",
+      "SectionBreak13": "Allocations",
+      "Search by Product Name or CUSIP": "txtProductSearch",
+      "SectionBreak1": "Client Data",
+      "SectionBreak2": "SB Client Data",
+      "SectionBreak3": "Owner",
+      "SectionBreak4": "SB Owner Page",
+      "SectionBreak5": "Joint Own",
+      "SectionBreak6": "Annuitant",
+      "SectionBreak7": "Beneficiary",
+      "SectionBreak8": "Agent",
+      "CUSIP ID": "SelectedProduct_CUSPID",
+      "SectionBreak9": "SB Agent"
+    },
+    "TC_011": {
+      "groupSaveMessage": "Group saved.",
+      "product": "React ESign Product"
+    },
+    "TC_012": {
+      "groupSaveMessage": "Group saved.",
+      "product": "React ESign Product"
+    },
+    "TC_013": {
+      "groupSaveMessage": "Group saved.",
+      "product": "React ESign Product",
+      "value": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    "commonTestData": {
+      "Include Product Access": "IncludeProductAccess",
+      "Section Search": "SearchStr",
+      "Include Activity Access": "IncludeActivityAccess",
+      "Case All": "ChkCaseAll",
+      "Copy Group": "btnCopyGroup",
+      "Enable User Share": "EnableUserShare",
+      "Include Case Access": "IncludeCaseAccess",
+      "organizationSaveMessage": "Organization saved.",
+      "Validate Identity": "chkIdVerification",
+      "FirmID Visibility": "FirmIDVisibilityOnly",
+      "Product Name": "SelectedProduct_MarketingName",
+      "All State": "chkAll",
+      "Any State": "list",
+      "Enable Viewing of Rule Traces": "EnableRuleTraceViewing",
+      "Enable Test Mode": "EnableTestMode",
+      "Enable Multi-Life": "EnableMultiLife",
+      "Enable HTTP Redirect on Submit": "EnableHTTPRedirectOnSubmit",
+      "Enable manual Queue move": "EnableManualReviewMove",
+      "Enable Custom Print Override": "EnableCustomPrint",
+      "Allow Passcode Email": "EnableEmailPassCode",
+      "Enable State Refinement": "ChkStateRefinement",
+      "Enabled Tele-sign Download Forms": "EnableTeleSignDownload",
+      "Auto Email Passcode": "AutoEmailPassCode",
+      "Enable view Utilities": "EnableUtilities",
+      "Enable Viewing of Application Data": "EnableViewingApplicationData",
+      "Enable Distributor Testing View": "EnableDistributorTestingView",
+      "Enable All activities user share": "EnableUserShare",
+      "Enable Print NIGO": "EnablePrintNIGO",
+      "Enable Viewing of API Insights Traces": "EnableApiInsightsViewing",
+      "Enable Decline E Sign Email": "EnableDeclinedESigEmail",
+      "FireLight® Use the CRM Button": "TrainingModel_Videos_16__Enabled",
+      "Enable Tele-sign": "EnableTeleSign",
+      "Enable ExamOne": "EnableParamedExamOne",
+      "Enable Firm Management": "EnableFirmManagement",
+      "Enable CRM Preferences": "EnableCrmPreferences",
+      "Enable View Fees": "EnableViewFees",
+      "Enable Application PDF Link": "EnablePDFLinkInReview",
+      "Enable Training": "EnableTraining",
+      "Check\/uncheck all Activity": "ChkActivityAll",
+      "Enabled-Sign Generate link": "EnableTeleSignGenerateLink",
+      "Enable Tele-sign Email Link": "EnableTeleSignEmail",
+      "Enable Creation of Rule Traces": "EnableRuleTraceCreation",
+      "Check\/Uncheck all Product": "ChkProductAll",
+      "Enable Assign reviewer button": "EnableAssignReviewer",
+      "FireLight® Attaching Supplemental Documents to an Activity": "TrainingModel_Videos_0__Enabled",
+      "Enable Multiple Open Activities": "EnableMultipleOpenActivities",
+      "Enable Common Tags Utilities": "EnableCommonTagsUtility",
+      "FireLight® eSignatures - Remote Sign": "TrainingModel_Videos_5__Enabled",
+      "Enable obfuscation": "EnableObfuscation",
+      "Enable Override Date": "EnableOverrideDate",
+      "Enable Auto Submit": "EnableAutoSubmit",
+      "Check\/Uncheck all Cases": "ChkCaseAll",
+      "Enable Read Only User Admin Access": "EnableReadOnlyUserAdminAccess",
+      "Enable APPS": "EnableParamedAPPS",
+      "Use the CRM Button": "TrainingModel_Videos_16__Enabled",
+      "Attaching Supplemental Documents to an Activity": "TrainingModel_Videos_0__Enabled",
+      "eSignatures - Remote Sign": "TrainingModel_Videos_5__Enabled"
+    },
+    "TC_017": {
+      "groupSaveMessage": "Group saved.",
+      "product": "FirmManagement",
+      "newActivityName": "AT FirmManagement 090111810",
+      "jurisdiction": "Arizona",
+      "uiType": "mvc",
+      "newProductName": "AT FirmManagement 090111810"
+    }
+  }
+}

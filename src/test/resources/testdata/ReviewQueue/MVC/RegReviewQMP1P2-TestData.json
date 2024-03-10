@@ -1,0 +1,199 @@
+{
+  "testData": {
+    "MRQ_064": {
+      "activityCount": "1",
+      "reviewerComment": "ICW App Looks good in DSB Queue.",
+      "actionRemarks": "Approve from DSB Queue",
+      "product": "Income Choice Wizard",
+      "reviewerName": "James Anderson",
+      "newActivityName": "AT Income Choice Wizard 291258848",
+      "jurisdiction": "Alabama",
+      "reviewerLastName": "Taylor",
+      "uiType": "React",
+      "newProductName": "AT Income Choice Wizard 291258848",
+      "reviewerFirstName": "Jayson"
+    },
+    "MRQ_074": {
+      "actionRemarks": "Approve both Apps from Unlock All Queue.",
+      "product": "Elite Term Multi Signer",
+      "newActivityName": "AT Elite Term Multi Signer 291219029",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "secondNewProductName": "AT Elite Term Multi Signer 291248125",
+      "newProductName": "AT Elite Term Multi Signer 291219029",
+      "Page size": "OSJ_RowsPerPage"
+    },
+    "MRQ_075": {
+      "actionRemarks": "Reject both Apps from Unlock All Queue.",
+      "product": "Elite Term Multi Signer",
+      "newActivityName": "AT Elite Term Multi Signer 291239694",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "secondNewProductName": "AT Elite Term Multi Signer 291205776",
+      "newProductName": "AT Elite Term Multi Signer 291239694",
+      "Page size": "OSJ_RowsPerPage"
+    },
+    "TC_001": {
+      "actionRemarks": "Rejecting Reviewer Document App from DSB Queue.",
+      "product": "CT Fields Verification",
+      "newActivityName": "AT CT Fields Verification 291212106",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "secondNewProductName": "AT CT Fields Verification 291239988",
+      "newProductName": "AT CT Fields Verification 291212106",
+      "Page size": "OSJ_RowsPerPage"
+    },
+    "TC_002": {
+      "reviewerComment": "Developer is not upto mark",
+      "actionRemarks": "Approving Reviewer Document App from DSB Queue.",
+      "product": "CT Fields Verification",
+      "reviewerName": "SSM",
+      "newActivityName": "AT CT Fields Verification 291237551",
+      "jurisdiction": "Alabama",
+      "reviewerLastName": "Mohapatra",
+      "uiType": "MVC",
+      "secondNewProductName": "AT CT Fields Verification 291258656",
+      "newProductName": "AT CT Fields Verification 291237551",
+      "Page size": "OSJ_RowsPerPage",
+      "reviewerFirstName": "Shiba"
+    },
+    "TC_004": {
+      "activityCount": "1",
+      "product": "Firm Product Wizard",
+      "reviewerPasscode": "75352984",
+      "newActivityName": "AT Firm Product Wizard 291259070",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/n6jc",
+      "newProductName": "AT Firm Product Wizard 291259070",
+      "applicationPopup": "Finished 1 of 4 Steps. Client signatures are needed. "
+    },
+    "TC_005": {
+      "activityCount": "1",
+      "product": "PI Multiple Agent Signing Product",
+      "reviewerPasscode": "21694219",
+      "newActivityName": "AT PI Multiple Agent Signing Product 291259711",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/8QH7",
+      "newProductName": "AT PI Multiple Agent Signing Product 291259711"
+    },
+    "TC_006": {
+      "activityCount": "1",
+      "product": "Review Queue Automation 3",
+      "reviewerPasscode": "22855922",
+      "newActivityName": "AT Review Queue Automation 3 291238883",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "newProductName": "AT Review Queue Automation 3 291238883"
+    },
+    "TC_007": {
+      "product": "Easy Signing",
+      "jurisdiction": "All Locked Orders",
+      "uiType": "MVC",
+      "secondNewProductName": "Easy Signing",
+      "newProductName": "Easy Signing"
+    },
+    "TC_008": {
+      "product": "Income Choice Product",
+      "jurisdiction": "All Locked Orders",
+      "uiType": "MVC",
+      "secondNewProductName": "Firm Product Wizard",
+      "newProductName": "AT Firm Product Wizard 271236995"
+    },
+    "TC_009": {
+      "copy_OfnewProductName": "Copy of AT Automation Review Queue Product 101246610",
+      "reviewerComment": "Developer is not upto mark",
+      "product": "Automation Reviewer Product",
+      "Copy_ofnewProductName": "Copy of AT Automation Review Queue Product 291230346",
+      "jurisdiction": "My Locked Orders",
+      "copy_OfsecondNewProductName": "Copy of AT Automation Reviewer Product 101242867",
+      "newProductName": "AT Automation Review Queue Product 291230346",
+      "reviewerFirstName": "Shiba",
+      "Submit_Cmf_Msg_Line2": "No further edits will be allowed.",
+      "Submit_Cmf_Msg_Line3": "Are you sure?",
+      "Submit_Cmf_Msg_Line1": "Application will be submitted.",
+      "activityCount": "2",
+      "reviewerName": "SSM",
+      "Copy_ofsecondNewProductName": "Copy of AT Automation Reviewer Product 291200572",
+      "newActivityName": "AT Automation Review Queue Product 291230346",
+      "reviewerLastName": "Mohapatra",
+      "uiType": "MVC",
+      "secondNewProductName": "AT Automation Reviewer Product 291200572",
+      "Page size": "OSJ_RowsPerPage"
+    },
+    "TC_010": {
+      "activityCount": "1",
+      "product": "RV PDF link",
+      "reviewerPasscode": "46926286",
+      "newActivityName": "AT RV PDF link 291200552",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/RWcx",
+      "newProductName": "AT RV PDF link 291200552"
+    },
+    "TC_011": {
+      "activityCount": "1",
+      "product": "RV PDF link",
+      "reviewerPasscode": "88599784",
+      "newActivityName": "AT RV PDF link 291215756",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/N2c",
+      "newProductName": "AT RV PDF link 291215756"
+    },
+    "TC_012": {
+      "product": "RV PDF link",
+      "reviewerPasscode": "27386417",
+      "newActivityName": "AT RV PDF link 291203268",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/xccn",
+      "newProductName": "AT RV PDF link 291203268"
+    },
+    "TC_013": {
+      "product": "RV No Signer Forms Only",
+      "newActivityName": "AT RV No Signer Forms Only 291226473",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "newProductName": "AT RV No Signer Forms Only 291226473"
+    },
+    "TC_014": {
+      "product": "RV PDF link",
+      "reviewerPasscode": "23743369",
+      "newActivityName": "AT RV PDF link 291229880",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/rm6H",
+      "secondNewProductName": "Firm Product Wizard",
+      "newProductName": "AT RV PDF link 291229880"
+    },
+    "TC_015": {
+      "product": "RV PDF link",
+      "reviewerPasscode": "27386417",
+      "newActivityName": "AT RV PDF link 291217582",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/xccn",
+      "newProductName": "AT RV PDF link 291217582"
+    },
+    "TC_016": {
+      "product": "Sequential Queue",
+      "reviewerPasscode": "27386417",
+      "mailBody": "The submitted Application AT Sequential Queue 291203747 has been rejected and was not released to the carrier.  To Resubmit: 1. Copy Application 2. Make Corrections 3. Resubmit Application. See rejection reasons noted below.\r\n\r\nThis submitted application has been rejected by the reviewer [AUTOUser1_FLADEMO_AUTO] and was not released to the carrier.  To Resubmit: 1.Copy App 2. Make Corrections 3. Resubmit App. See rejection reasons noted below.\r\n\r\n",
+      "mailContent2": "The submitted Application newProductName has been rejected and was not released to the carrier.  To Resubmit: 1. Copy Application 2. Make Corrections 3. Resubmit Application. See rejection reasons noted below.",
+      "newActivityName": "AT Sequential Queue 291203747",
+      "mailContent": "Dear AUTOUser1,  You have elected to decline E-Signature for the application newProductName.  Please collect all application signatures manually before submitting the application electronically.",
+      "jurisdiction": "Arizona",
+      "uiType": "MVC",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/xccn",
+      "newProductName": "AT Sequential Queue 291203747",
+      "mailContent1": "Dear Reviewer,The following case newProductName, has been auto-assigned to SEQ2 for AUTOUser1 and is now available for review on queue. Please login to FireLight at your earliest convenience to review.",
+      "mailCurrentDate": "Friday, December 29, 2023"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    }
+  }
+}

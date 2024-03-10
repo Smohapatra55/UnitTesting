@@ -1,0 +1,111 @@
+{
+  "testData": {
+    "TC_018": {
+      "uiType": "mvc",
+      "newProductName": "AT Easy Signing 111253226"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value",
+      "groupSaveMessage": "Group saved.",
+      "Copy As Is": "CopyAsIsButton",
+      "Disable Change Carrier Copy With Changes": "DisableCopyChangeCarrier",
+      "Copy With Changes": "CopyWithChangesButton",
+      "Disable Copy with Changes": "DisableCopyApplicationsWithChanges",
+      "Disable Copy As Is": "DisableCopyApplicationsAsIs"
+    },
+    "TC_019": {
+      "product": "Easy Signing",
+      "copy Message": "Copy the selected activity As Is OR change jurisdiction, product or optional forms.",
+      "copyAppMsg": "dialogCopyAppMsg",
+      "Cancel": "popup_cancel",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT Easy Signing 121234988",
+      "Ok": "popup_ok",
+      "Copy Cancel": "CopyCancelButton",
+      "Name": "popup_prompt"
+    },
+    "TC_021": {
+      "Cancel": "popup_cancel",
+      "uiType": "mvc",
+      "newProductName": "Copy of AT Easy Signing 121206918",
+      "Ok": "popup_ok",
+      "Name": "popup_prompt"
+    },
+    "TC_020": {
+      "uiType": "mvc",
+      "newProductName": "Copy of AT Easy Signing 121206918"
+    },
+    "TC_025": {
+      "product": "Easy Signing",
+      "copy Message": "Copy the selected activity As Is OR change jurisdiction, product or optional forms.",
+      "copyAppMsg": "dialogCopyAppMsg",
+      "Cancel": "popup_cancel",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT Easy Signing 121214818",
+      "Carrier": "CarrierID",
+      "Ok": "popup_ok",
+      "Copy Cancel": "CopyCancelButton",
+      "Name": "popup_prompt"
+    },
+    "TC_024": {
+      "product": "Easy Signing",
+      "copy Message": "Copy the selected activity As Is OR change jurisdiction, product or optional forms.",
+      "copyAppMsg": "dialogCopyAppMsg",
+      "Cancel": "popup_cancel",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT Easy Signing 121204282",
+      "Carrier": "CarrierID",
+      "Ok": "popup_ok",
+      "Copy Cancel": "CopyCancelButton",
+      "Name": "popup_prompt"
+    },
+    "TC_023": {
+      "product": "Easy Signing",
+      "copy Message": "Copy the selected activity As Is OR change jurisdiction, product or optional forms.",
+      "copyAppMsg": "dialogCopyAppMsg",
+      "Cancel": "popup_cancel",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT Easy Signing 121214818",
+      "Ok": "popup_ok",
+      "Copy Cancel": "CopyCancelButton",
+      "Name": "popup_prompt"
+    },
+    "TC_022": {
+      "uiType": "mvc",
+      "newProductName": "Copy of AT Easy Signing 121214818"
+    },
+    "TC_017": {
+      "Cancel": "popup_cancel",
+      "uiType": "mvc",
+      "newProductName": "New Application - Lifetime Income",
+      "Ok": "popup_ok",
+      "Name": "popup_prompt"
+    },
+    "TC_016": {
+      "uiType": "mvc",
+      "newProductName": "AT Firm Product Wizard 121237086"
+    },
+    "TC_027": {
+      "uiType": "mvc",
+      "newProductName": "AT Automation Product Doc Set 111205661"
+    },
+    "TC_026": {
+      "product": "Easy Signing",
+      "copy Message": "Copy the selected activity As Is OR change jurisdiction, product or optional forms.",
+      "copyAppMsg": "dialogCopyAppMsg",
+      "Cancel": "popup_cancel",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "Copy of AT Easy Signing 121214818",
+      "Carrier": "CarrierID",
+      "Ok": "popup_ok",
+      "Copy Cancel": "CopyCancelButton",
+      "Name": "popup_prompt"
+    }
+  }
+}

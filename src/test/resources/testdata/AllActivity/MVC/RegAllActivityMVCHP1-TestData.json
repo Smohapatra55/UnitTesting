@@ -1,0 +1,99 @@
+{
+  "testData": {
+    "TC_003": {
+      "product": "RV Lexis Nexis",
+      "newActivityName": "AT RV Lexis Nexis 281227729",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT RV Lexis Nexis 291128303",
+      "lexisNexisMessage1": "Back Office Action is being performed.",
+      "lexisNexisMessage2": "User validation is being performed."
+    },
+    "TC_002": {
+      "product": "FL024 GIACT Custom Action Call FORM",
+      "newActivityName": "AT FL024 GIACT Custom Action Call FORM 281221194",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT FL024 GIACT Custom Action Call FORM 291152119",
+      "giactMessage1": "Back Office Action is being performed.",
+      "giactMessage2": "Account validation is being performed."
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    },
+    "TC_001": {
+      "jurisdiction": "Alabama",
+      "uiType": "mvc"
+    },
+    "TC_013": {
+      "mailBody": "Deep05 has revoked your (Complete Signing without Primary Agent) access on the Application named AT FL024 TFS 34710 TTEE Forms only 050215166 for the user share request originally sent on 2\/5\/2024.\r\n\r\n",
+      "User": "drpUser",
+      "additionalContent": "AppName",
+      "expectedmailBody": "Dear Sunil05,I would like to grant you (Complete Signing without Primary Agent) access to view the Application named newProductName. To find the Application, log into FireLight and open All Activities. Click on the User search icon next to the User list to display a list of users. In the User List, click on my user name Deep05_FLADEMO_Auto to switch the view so you can see the Application named newProductName. Click on the link to accept this share request.",
+      "expectedmailBody1": "Deep05 has revoked your (Complete Signing without Primary Agent) access on the Application named newProductName for the user share request originally sent on",
+      "product": "FL024 TFS 34710 TTEE Forms only",
+      "emailAddress": "testhexure@gmail.com",
+      "newActivityName": "AT FL024 TFS 34710 TTEE Forms only 281204520",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/76Rm",
+      "name": "Jayesh Bhos",
+      "newProductName": "AT FL024 TFS 34710 TTEE Forms only 051214740",
+      "id": "123456",
+      "birthDate": "11122000",
+      "ssn": "1234"
+    },
+    "TC_012": {
+      "product": "Firm Product Forms Only",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newActivityName": "AT Firm Product Forms Only 281200479",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/MLZ",
+      "newProductName": "AT Firm Product Forms Only 051254962"
+    },
+    "TC_008": {
+      "product": "Automation Addendum Product",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT Automation Addendum Product 061230110",
+      "newActivityName": "AT Automation Addendum Product 281205229"
+    },
+    "TC_011": {
+      "product": "Firm Product Forms Only",
+      "newActivityName": "AT Firm Product Forms Only 281201694",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT Firm Product Forms Only 061243839"
+    },
+    "TC_010": {
+      "thankYou": "Thank you for using our application.",
+      "jurisdiction": "Alabama",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/wlMM",
+      "congratulations": "Congratulations, you have signed all the required document sets for this application",
+      "newProductName": "AT Form Protection MVC Product 161251859",
+      "agent_lastname": "Yadav",
+      "ownerBirthdate": "10102000",
+      "primaryUrl": "https:\/\/flqanext.insurancetechnologies.com\/BRc",
+      "ownerName": "Ownername Random",
+      "dataEntryPercentage": "100 %",
+      "printPdfWindow": "https:\/\/flqa.insurancetechnologies.com\/EGApp\/EditWizardApplication\/PrintPdf",
+      "insuredName": "Insured Random",
+      "product": "Form Protection MVC Product",
+      "insuredName1": "Insured Random 161251859",
+      "insuredBirthdate": "11111992",
+      "ownerPasscode": "37257893",
+      "insuredSsn": "2222",
+      "receipantLink(url)": "https:\/\/flqa.insurancetechnologies.com\/lm46",
+      "ownerName1": "Ownername Random 161251859",
+      "annuitantCity": "",
+      "ownerEmail": "owner@gmail.com",
+      "newActivityName": "AT Form Protection MVC Product 161251859",
+      "insuredEmail": "insured@gmail.com",
+      "insuredPasscode": "32484298",
+      "uiType": "MVC",
+      "ownerSsn": "1234",
+      "signerFullName": "Signer Colorado"
+    }
+  }
+}

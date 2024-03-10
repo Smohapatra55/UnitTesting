@@ -1,0 +1,38 @@
+{
+  "testData": {
+    "ACRE_001": {
+      "product": "Easy Signing Distributor",
+      "thankYou": "Thank you for using our application.",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "congratulations": "Congratulations, you have signed all the required document sets for this application.",
+      "applicationPopup": "This application has one or more template forms with document tags: [Voided Check]. Please upload the related documents using Attach Documents.",
+      "newProductName": "AT Easy Signing Distributor 111227677"
+      },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    },
+    "TC_002": {
+      "JointName": "joint full Name",
+      "product": "Signing Jurisdiction1",
+      "thankYou": "Thank you for using our application.",
+      "jurisdiction": "Alaska",
+      "congratulations": "Congratulations, you have signed all the required document sets for this application.",
+      "applicationPopup": "This application has one or more template forms with document tags: [Voided Check]. Please upload the related documents using Attach Documents.",
+      "newProductName": "AT Signing Jurisdiction1 131249036",
+      "birthDate": "11122000",
+      "recipientPasscode": "75954614",
+      "ssn": "1234",
+      "signerUrl": "https:\/\/flqa.insurancetechnologies.com\/JC2x",
+      "emailAddress": "testhexure@gmail.com",
+      "JointEmail": "testhexure@gmail.com",
+      "newActivityName": "AT Signing Jurisdiction1 131249036",
+      "JointBirthdate": "11122000",
+      "uiType": "React",
+      "name": "the signer",
+      "id": "123456",
+      "JointSsn": "1234"
+    }
+  }
+}

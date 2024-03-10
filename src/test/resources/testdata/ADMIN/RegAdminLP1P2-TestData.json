@@ -1,0 +1,15 @@
+{
+  "testData": {
+    "AT_027": {
+      "uiType": "mvc",
+      "organizationName": "InsTech Managed",
+      "organizationSaveMessage": "Organization saved.",
+      "enableInsTechManagedProducts": "SelectedOrganization_EnableNonSponsored",
+      "allowOutsideRepositoryManagement": "SelectedOrganization_AllowOutsideRepositoryManagement"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    }
+  }
+}

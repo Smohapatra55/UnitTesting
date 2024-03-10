@@ -1,0 +1,18 @@
+{
+  "testData": {
+    "TC_001": {
+      "actionRemarks": "More Info By Me",
+      "product": "Addendum Signing",
+      "reviewerPasscode": "57931226",
+      "newActivityName": "AT Addendum Signing 141228329",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/BRL",
+      "newProductName": "AT Addendum Signing 141228329"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    }
+  }
+}

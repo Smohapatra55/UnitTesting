@@ -1,0 +1,13 @@
+{
+  "testData": {
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    },
+    "AT_018": {
+      "product": "DSB Ins Product",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc"
+    }
+  }
+}

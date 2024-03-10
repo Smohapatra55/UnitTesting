@@ -1,0 +1,70 @@
+{
+  "testData": {
+    "TC_001": {
+      "product": "Concierge Paper Workflow Wiz",
+      "mailBody": "Dear Gaurav shankar,\r\n\r\nOwnership of this Application named AT Concierge Paper Workflow Wiz 281220341 has been transferred to you. \r\n\r\nTo view this Application, open FireLight. The activity will appear in your Recent Activity list on the Home page. \r\n\r\nUse the link included at the bottom of this email to access your submission and complete the process electronically. \r\n\r\nPlease use your birth date and the last 4 digits of your SSN to login. You may also use the passcode to login. A passcode will be delivered via a separate email. \r\n\r\nThank you,\r\nAUTOUser1\r\n\r\nTo proceed, Click on https:\/\/flqa.insurancetechnologies.com\/RH19, enter the last 4 digits of your SSN and your birth date. If a new window does not automatically appear, you may have to copy the link and paste it into the address bar of a new browser window.\r\n\r\n",
+      "Create User, Transfer, Email Custom Action (Concierge Paper Workflow)": "FIELD_15",
+      "jurisdiction": "Alabama",
+      "emailLink": "https:\/\/flqa.insurancetechnologies.com\/RH19",
+      "newProductName": "AT Concierge Paper Workflow Wiz 281253679",
+      "passCode": "15437372",
+      "expectedPasscodeMailBody": "The passcode for the recent request is",
+      "mailCurrentDate": "Thursday, December 28, 2023",
+      "URL": "https:\/\/flqa.insurancetechnologies.com\/n7h",
+      "expectedLinkMailBody": "To proceed, Click on",
+      "reviewerName": "Gaurav shankar",
+      "newActivityName": "AT Concierge Paper Workflow Wiz 281253679",
+      "uiType": "MVC"
+    },
+    "TC_002": {
+      "product": "Concierge Paper Workflow",
+      "mailBody": "Dear Gaurav shankar,\r\n\r\nOwnership of this Application named AT Concierge Paper Workflow 281218062 has been transferred to you. \r\n\r\nTo view this Application, open FireLight. The activity will appear in your Recent Activity list on the Home page. \r\n\r\nUse the link included at the bottom of this email to access your submission and complete the process electronically. \r\n\r\nPlease use your birth date and the last 4 digits of your SSN to login. You may also use the passcode to login. A passcode will be delivered via a separate email. \r\n\r\nThank you,\r\nAUTOUser1\r\n\r\nTo proceed, Click on https:\/\/flqa.insurancetechnologies.com\/wq9, enter the last 4 digits of your SSN and your birth date. If a new window does not automatically appear, you may have to copy the link and paste it into the address bar of a new browser window.\r\n\r\n",
+      "Create User, Transfer, Email Custom Action (Concierge Paper Workflow)": "C_F",
+      "jurisdiction": "Alabama",
+      "emailLink": "https:\/\/flqa.insurancetechnologies.com\/wq9",
+      "newProductName": "AT Concierge Paper Workflow 281231227",
+      "passCode": "43774134",
+      "expectedPasscodeMailBody": "The passcode for the recent request is",
+      "mailCurrentDate": "Thursday, December 28, 2023",
+      "URL": "https:\/\/flqa.insurancetechnologies.com\/n7h",
+      "expectedLinkMailBody": "To proceed, Click on",
+      "reviewerName": "Gaurav shankar",
+      "newActivityName": "AT Concierge Paper Workflow 281231227",
+      "uiType": "MVC"
+    },
+    "TC_010": {
+      "product": "Section Break Product1",
+      "newActivityName": "AT Section Break Product1 281251433",
+      "jurisdiction": "Replacement\/Transfer\/Rollover",
+      "uiType": "MVC",
+      "newProductName": "AT Section Break Product1 281251433"
+    },
+    "TC_014": {
+      "red": "validation-summary-errors",
+      "product": "Section Break Product1",
+      "newActivityName": "AT Section Break Product1 281230439",
+      "jurisdiction": "1",
+      "uiType": "MVC",
+      "newProductName": "AT Section Break Product1 281230439"
+    },
+    "TC_015": {
+      "product": "Section Break Product1",
+      "newActivityName": "AT Section Break Product1 281250272",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "newProductName": "AT Section Break Product1 281250272"
+    },
+    "TC_016": {
+      "red": "validation-summary-errors",
+      "product": "Section Break Account Opening",
+      "newActivityName": "AT Section Break Account Opening 281245990",
+      "jurisdiction": "1",
+      "uiType": "MVC",
+      "newProductName": "AT Section Break Account Opening 281245990"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    }
+  }
+}

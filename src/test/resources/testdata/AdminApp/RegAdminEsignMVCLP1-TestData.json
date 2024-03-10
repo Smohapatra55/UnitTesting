@@ -1,0 +1,15 @@
+{
+  "testData": {
+    "TC_001": {
+      "uiType": "mvc"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value",
+      "Passcode only validation": "HasPasscodeOnlyValidation",
+      "State signing error": "StateSigningValidation",
+      "State Match Warning": "EnforceMatchState",
+      "Signature": "Signature_0"
+    }
+  }
+}

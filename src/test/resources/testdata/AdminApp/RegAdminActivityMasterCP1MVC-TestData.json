@@ -1,0 +1,61 @@
+{
+  "testData": {
+    "TC_001": {
+      "uiType": "mvc"
+    },
+    "TC_002": {
+      "product": "Automation Product2",
+      "newActivityName": "AT Automation Product2 181216563",
+      "jurisdiction": "Arizona",
+      "uiType": "mvc",
+      "newProductName": "AT Automation Product2 181216563"
+    },
+    "TC_003": {
+      "product": "Automation Product2",
+      "newActivityName": "AT Automation Product2 181210542",
+      "jurisdiction": "Arizona",
+      "uiType": "mvc",
+      "newProductName": "AT Automation Product2 181210542"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value",
+      "enableCustomSubmitPageId": "EnableCustomSubmitPage",
+      "Left": "Left",
+      "enableAutoSubmitId": "EnableAutoSubmit",
+      "allowNigoSubmitId": "AllowNigoSubmit",
+      "cacheTimeoutMinutes": "2",
+      "Text": "LabelText",
+      "fieldNameDropdown": "txtFieldName",
+      "Top": "Top",
+      "TextField": "ddCommonTagSearch",
+      "disableSubmitId": "DisableSubmit",
+      "enableHTTPId": "EnableHTTPRedirectOnSubmit",
+      "organizationSaveMessage": "Organization saved.",
+      "Validate Identity": "chkIdVerification",
+      "groupSaveMessage": "Group saved."
+    },
+    "AT_110": {
+      "product": "Automation Product2",
+      "agentLastName": "Nehe",
+      "stateLicence": "5555555",
+      "ownerBOD": "11\/11\/1976",
+      "jurisdiction": "Alabama",
+      "contractNumber": "333333",
+      "newProductName": "AT Automation Product2 251217649",
+      "emailAddress": "testvizi66@gmail.com",
+      "newActivityName": "AT Automation Product2 251217649",
+      "primaryBenefitPecentage": "100",
+      "uiType": "mvc",
+      "agentFirstname": "Vishal",
+      "comision": "10",
+      "name": "Ajay",
+      "ownerSSN": "1234",
+      "signerFullName": "John Adesh Mate",
+      "id": "ID2343",
+      "digit": "11",
+      "dobError": "Birth date does not match",
+      "ssnError": "SSN does not match"
+    }
+  }
+}

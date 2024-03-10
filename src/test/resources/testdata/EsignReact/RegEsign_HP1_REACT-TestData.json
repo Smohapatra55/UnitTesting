@@ -1,0 +1,26 @@
+{
+  "testData": {
+    "TC_001": {
+      "product": "Contact Agent Form With Wiz",
+      "agentEmail": "testhexure@gmail.com",
+      "Newpasscode": "53575559",
+      "jurisdiction": "Brother",
+      "emailLink": "https:\/\/flqa.insurancetechnologies.com\/WLR",
+      "agentName": "AUTOUser1",
+      "newProductName": "AT Contact Agent Form With Wiz 241251238",
+      "birthDate": "10101950",
+      "ssn": "1234",
+      "receipantEmail": "testhexure@gmail.com",
+      "reviewerName": "RecipientName241251238",
+      "newActivityName": "AT Contact Agent Form With Wiz 241251238",
+      "uiType": "react",
+      "receipantName": "RecipientNameRandom",
+      "receipantBirthdate": "10101950",
+      "receipantSsn": "1234"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    }
+  }
+}

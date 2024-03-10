@@ -1,0 +1,48 @@
+{
+  "testData": {
+    "AT_041": {
+      "product": "Product Notification Test",
+      "User": "AUTOUser1_FLADEMO_AUTO",
+      "newMessageValue": "Testing Product Notification-Test Message",
+      "newProductName": "Product Notification",
+      "newProductName1": "Elite",
+      "productionNotification": "SelectedProduct.EnableProductNotification",
+      "alphaNumber": "AlphaNumbers",
+      "oldMessageValue": "D75GLqeYlGhG38Y3hkvzHaTHxBiL9WgK6q9mWE1i6eINNpT9GPJkGabZoB1i5HrYsVnoFKp7UYo5vQlFdeu9Cv0wMbsbzc97BkxQi9t7yjkVXahfX2y8o8McVz1QgPohHUed7vNZ1Acd2dTUvaR2IzTtAIbeSNixHFCdHEKM9GmZ2qRUQopiRSjkBHF6Kgk3XEtNuLYnYNI0jXhYktO1w2ZhN7FULjtP365uEbod28ZcJRMEBgPwKDLRUWsZAS0zEHWHlUsHyvuKEFMfhQYx2GmDBamQn8Uj5BR3TOVftQGVIFnwO0tdqBrOQ7HyGVtDEDc5ljMRNQ9ZFZXBRYZ3xk6eIdzA1phLY21mzx9yzQ1GnjX7veMimT3DBcmK3rNF5UG9r96qDk1RNm5b",
+      "errorMessage4": "Notification message cannot be longer than 400 characters.",
+      "errorMessage3": "End Date must be greater than Start Date.",
+      "enterInMessagebox": "Testing Product Notification-Test Message",
+      "characters": "D75GLqeYlGhG38Y3hkvzHaTHxBiL9WgK6q9mWE1i6eINNpT9GPJkGabZoB1i5HrYsVnoFKp7UYo5vQlFdeu9Cv0wMbsbzc97BkxQi9t7yjkVXahfX2y8o8McVz1QgPohHUed7vNZ1Acd2dTUvaR2IzTtAIbeSNixHFCdHEKM9GmZ2qRUQopiRSjkBHF6Kgk3XEtNuLYnYNI0jXhYktO1w2ZhN7FULjtP365uEbod28ZcJRMEBgPwKDLRUWsZAS0zEHWHlUsHyvuKEFMfhQYx2GmDBamQn8Uj5BR3TOVftQGVIFnwO0tdqBrOQ7HyGVtDEDc5ljMRNQ9ZFZXBRYZ3xk6eIdzA1phLY21mzx9yzQ1GnjX7veMimT3DBcmK3rNF5UG9r96qDk1RNm5b",
+      "errorMessage2": "Please enter start\/end date.",
+      "errorMessage1": "Please enter notification message.",
+      "uiType": "mvc",
+      "messageBox": "SelectedProduct.ProductNotificationMessage"
+    },
+    "AT_046": {
+      "uiType": "mvc"
+    },
+    "AT_057": {
+      "uiType": "mvc"
+    },
+    "TC_004": {
+      "uiType": "mvc",
+      "organizationSaveMessage": "Organization saved."
+    },
+    "commonTestData": {
+      "groupSaveMessage": "Group saved.",
+      "Organization": "SelOrgId",
+      "Message": "Msg",
+      "Load Deployment Information": "LoadList",
+      "deployment successful": "Deployment succeeded. Click Load Deployment Information to view remaining items to be deployed or use the History tab to view deployment history details.",
+      "Allow Product Notification": "chkEnableNotification",
+      "DeployMessage": "divDeployTab",
+      "EmailCategory": "ddlCategory",
+      "Reason": "Reason",
+      "Start Date": "datepicker",
+      "Deploy Now": "btnDeploy",
+      "End Date": "datepicker1",
+      "Search Product": "SearchStr",
+      "Synchronization Scope": "ScopeType"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "testData": {
+    "TC_003": {
+      "product": "Multiple Agent Signing Product",
+      "uiType": "mvc",
+      "Automated": "SelectedQueue_Automated"
+    },
+    "commonTestData": {
+      "groupSaveMessage": "Group saved."
+    }
+  }
+}

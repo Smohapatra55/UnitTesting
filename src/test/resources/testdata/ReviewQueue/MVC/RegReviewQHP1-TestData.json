@@ -1,0 +1,169 @@
+{
+  "testData": {
+    "MRQ_29": {
+      "activityCount": "1",
+      "product": "Firm Product Wizard",
+      "reviewerPasscode": "36866447",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/4c0",
+      "newProductName": "AT Firm Product Wizard 161120198",
+      "recipientPasscode": "74312756"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    },
+    "MRQ_30": {
+      "activityCount": "1",
+      "product": "Firm Product Wizard",
+      "reviewerPasscode": "66475487",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/l2XR",
+      "newProductName": "AT Firm Product Wizard 171147280",
+      "recipientPasscode": "74312756"
+    },
+    "MRQ_31": {
+      "activityCount": "1",
+      "product": "Elite Term Multi Signer",
+      "reviewerPasscode": "66475487",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/l2XR",
+      "newProductName": "AT Elite Term Multi Signer 171149596",
+      "recipientPasscode": "74312756"
+    },
+    "MRQ_47": {
+      "activityCount": "1",
+      "product": "Automation Product",
+      "reviewerPasscode": "66475487",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/l2XR",
+      "newProductName": "AT Automation Product 201126604",
+      "recipientPasscode": "74312756"
+    },
+    "MRQ_48": {
+      "activityCount": "1",
+      "product": "Signing Product React UI",
+      "reviewerPasscode": "55313579",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/nJhL",
+      "newProductName": "AT Signing Product React UI 211158304",
+      "recipientPasscode": "74312756"
+    },
+    "MRQ_49": {
+      "activityCount": "1",
+      "product": "Signing Product React UI",
+      "reviewerPasscode": "69166794",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/rmNr",
+      "newProductName": "AT Signing Product React UI 211130379",
+      "recipientPasscode": "74312756"
+    },
+    "MRQ_50": {
+      "reviewerComment": "SEQ1 Comments",
+      "product": "Sequential Queue",
+      "jurisdiction": "Arizona",
+      "SEQ 1 Comments \u2013 After Recall": "SEQ 1 Comments \u2013 After Recall",
+      "newProductName": "AT Sequential Queue 221145558",
+      "reviewerFirstName": "NameFirstReviewer",
+      "reviewerFirstName2": "NameFirstReviewer2",
+      "activityCount": "1",
+      "reviewerComment2": "SEQ2 Comments",
+      "actionRemarks": "Rejected from SEQ 1",
+      "reviewerPasscode": "73423653",
+      "reviewerName": "NameReviewer",
+      "reviewerLastName": "NameLastReviewer",
+      "reviewerLastName2": "NameLastReviewer2",
+      "uiType": "MVC",
+      "reviewerName2": "NameReviewer2"
+    },
+    "MRQ_53": {
+      "activityCount": "1",
+      "actionRemarks": "Approve Comment",
+      "product": "Firm Product Wiz and Forms",
+      "reviewerPasscode": "69166794",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/rmNr",
+      "newProductName": "AT Firm Product Wiz and Forms 231140728",
+      "recipientPasscode": "74312756"
+    },
+    "MRQ_56": {
+      "activityCount": "1",
+      "actionRemarks": "Approve Comment",
+      "product": "Review Queue Automation 2",
+      "reviewerPasscode": "69166794",
+      "jurisdiction": "Arizona",
+      "uiType": "React",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/rmNr",
+      "secondNewProductName": "AT Review Queue Automation 2 241108325",
+      "newProductName": "AT Review Queue Automation 1 241111860",
+      "recipientPasscode": "74312756"
+    },
+    "MRQ_57": {
+      "activityCount": "1",
+      "actionRemarks": "Approve Comment",
+      "product": "Review Queue Automation 2",
+      "reviewerPasscode": "69166794",
+      "jurisdiction": "Arizona",
+      "uiType": "React",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/rmNr",
+      "secondNewProductName": "AT Review Queue Automation 2 251106305",
+      "newProductName": "AT Review Queue Automation 3 251113037",
+      "recipientPasscode": "74312756"
+    },
+    "MRQ_58": {
+      "activityCount": "1",
+      "actionRemarks": "Approve Comment",
+      "product": "Review Queue Automation 1",
+      "reviewerPasscode": "69166794",
+      "jurisdiction": "Arizona",
+      "uiType": "React",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/rmNr",
+      "secondNewProductName": "AT Review Queue Automation 1 251156761",
+      "newProductName": "AT Review Queue Automation 3 251106660",
+      "recipientPasscode": "74312756"
+    },
+    "MRQ_59": {
+      "activityCount": "1",
+      "actionRemarks": "Approve Comment",
+      "product": "Review Queue Automation 4",
+      "reviewerPasscode": "69166794",
+      "jurisdiction": "Arizona",
+      "uiType": "React",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/rmNr",
+      "secondNewProductName": "AT Review Queue Automation 4 261148890",
+      "newProductName": "AT Review Queue Automation 1 261153080",
+      "recipientPasscode": "74312756"
+    },
+    "MRQ_76": {
+      "actionRemarks": "Approve Comment",
+      "product": "Elite Term",
+      "reviewerPasscode": "69166794",
+      "reviewerName": "Reviewer",
+      "expectedEmailBody": "Dear Reviewer,The following case newProductName, has been auto-assigned to Reviewer for Sunil Sharma and is now available for review on queue. Please login to FireLight at your earliest convenience to review.",
+      "mailBody": "Dear Reviewer,\r\n\r\nThe following case AT Elite Term 271113957, has been auto-assigned to Reviewer for Sunil Sharma and is now available for review on queue. Please login to FireLight at your earliest convenience to review.\r\n\r\n\r\n",
+      "jurisdiction": "Arizona",
+      "uiType": "React",
+      "newProductName": "AT Elite Term 271113957"
+    },
+    "MRQ_79": {
+      "actionRemarks": "Approve Comment",
+      "product": "Elite Term Multi Signer",
+      "reviewerPasscode": "69166794",
+      "reviewerName": "Reviewer",
+      "assignerMessage": "You are about to assign this application to selected reviewer. \"\nnewProductName\" to reviewer \"Sunil_ FLADEMO_Auto\".",
+      "expectedEmailBody": "Dear Reviewer,The following case newProductName, has been auto-assigned to Unlock All for Sunil Sharma and is now available for review on queue. Please login to FireLight at your earliest convenience to review.",
+      "mailBody": "Dear Reviewer,\r\n\r\nThe following case AT Elite Term Multi Signer 271107355, has been auto-assigned to Unlock All for Sunil Sharma and is now available for review on queue. Please login to FireLight at your earliest convenience to review.\r\n\r\n\r\n",
+      "jurisdiction": "Arizona",
+      "uiType": "MVC",
+      "newProductName": "AT Elite Term Multi Signer 271107355",
+      "remark": "Remarks: newProductName was locked and auto assigned to Sunil_ FLADEMO_Auto in queue Unlock All"
+    }
+  }
+}

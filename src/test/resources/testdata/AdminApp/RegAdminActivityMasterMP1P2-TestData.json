@@ -1,0 +1,20 @@
+{
+  "testData": {
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    },
+    "AT_004": {
+      "product": "Form Designer Changes_OP",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "newProductName": "AT Form Designer Changes_OP 111259448"
+    },
+    "TC_010": {
+      "product": "Form Designer Changes_OP",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "newProductName": "AT Form Designer Changes_OP 131225331"
+    }
+  }
+}

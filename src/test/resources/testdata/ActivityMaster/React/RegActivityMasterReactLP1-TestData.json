@@ -1,0 +1,54 @@
+{
+  "testData": {
+    "TC_002": {
+      "product": "FL024 ENR Parent Product for Master",
+      "signerPasscode": "65225187",
+      "jurisdiction": "Alabama",
+      "agentName": "Sunil Sharma",
+      "emailLink": "https:\/\/flqa.insurancetechnologies.com\/XQhr",
+      "newProductName": "AT FL024 ENR Parent Product for Master 131259389",
+      "ownerName1": "Owner Colorado Random 121213766",
+      "passCode": "93636947",
+      "birthDate": "10101950",
+      "ssn": "1234",
+      "signerUrl": "https:\/\/flqanext.insurancetechnologies.com\/77Nh",
+      "emailAddress": "testHexure@gmail.com",
+      "reviewerName": "FL024 eXtensible IT Solutions Pvt. Ltd. 131259389",
+      "uiType": "react",
+      "name": "Owner Colorado Random",
+      "secondNewProductName": "Master Agreement For AT FL024 ENR Parent Product for Master 131259389",
+      "signerFullName": "signerNameColorado",
+      "id": "12345"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value",
+      "deleteRecords": "ITButtonInput   far fa-trash-alt",
+      "dataGrids": "dataGrid__row"
+    },
+    "TC_001": {
+      "product": "SS illustration",
+      "signerPasscode": "65225187",
+      "jurisdiction": "Deferred Annual Multi Model",
+      "additionalContent": "d465d12e-08d4-4cf8-afa9-26d00b30514a ",
+      "QuickView": "quickView__table",
+      "emailLink": "https:\/\/flqa.insurancetechnologies.com\/532x",
+      "newProductName": "AT SS illustration 231213727",
+      "agentName1": "Sunil Sharma Random 231213727",
+      "emailAddress": "testHexure@gmail.com",
+      "reviewerName": "Sunil Sharma Random 231213727",
+      "newActivityName": "AT SS illustration 231213727",
+      "uiType": "react",
+      "secondNewProductName": "Illustration Application for AT SS illustration 231213727"
+    },
+    "TC_004": {
+      "updatedMenuOption": "Form 1080C-NY 11-98 (PART I)INSURANCE DEPARTMENT OF THE STATE OF NEW YORK DISCLOSURE STATEMENT (Annuity to Annuity Replacement Only) PART Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "product": "Long form name product wiz",
+      "newActivityName": "AT Long form name product wiz 191257205",
+      "jurisdiction": "Alabama",
+      "uiType": "react",
+      "menuOption": "Form 1080C-NY 11-98 (PART I)INSURANCE DEPARTMENT OF THE STATE OF NEW YORK DISCLOSURE STATEMENT (Annuity to Annuity Replacement Only) PART I",
+      "newProductName": "AT Long form name product wiz 191257205"
+    }
+  }
+}

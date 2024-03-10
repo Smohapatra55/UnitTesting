@@ -1,0 +1,17 @@
+{
+  "testData": {
+    "TC_003": {
+      "updatedMenuOption": "Form 1080C-NY 11-98 (PART I)INSURANCE DEPARTMENT OF THE STATE OF NEW YORK DISCLOSURE STATEMENT (Annuity to Annuity Replacement Only) PART I",
+      "product": "Long form name product",
+      "newActivityName": "AT Long form name product 290149699",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "menuOption": "Form 1080C-NY 11-98 (PART I)INSURANCE DEPARTMENT OF THE STATE OF NEW YORK DISCLOSURE STATEMENT (Annuity to Annuity Replacement Only) PART I",
+      "newProductName": "AT Long form name product 290149699"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    }
+  }
+}

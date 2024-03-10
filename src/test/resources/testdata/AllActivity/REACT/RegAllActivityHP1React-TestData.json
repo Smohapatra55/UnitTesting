@@ -1,0 +1,55 @@
+{
+  "testData": {
+    "TC_003": {
+      "product": "Lexis Nexis Wizard",
+      "newActivityName": "AT Lexis Nexis Wizard 281216524",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Lexis Nexis Wizard 291111107",
+      "lexisNexisMessage1": "Back Office Action is being performed.",
+      "lexisNexisMessage2": "User validation is being performed."
+    },
+    "TC_002": {
+      "product": "FL024 GIACT Custom Action Call Wiz",
+      "newActivityName": "AT FL024 GIACT Custom Action Call Wiz 281225405",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT FL024 GIACT Custom Action Call Wiz 291135001",
+      "giactMessage1": "Back Office Action is being performed.",
+      "giactMessage2": "Account validation is being performed."
+    },
+    "TC_011": {
+      "product": "EITS Wizard Product",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT EITS Wizard Product 051238747"
+    },
+    "TC_005": {
+      "product": "Firm Product Forms Only",
+      "newActivityName": "AT Firm Product Forms Only 281227433",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Firm Product Forms Only 041223988"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    },
+    "TC_009": {
+      "product": "Automation Addendum Product- Forms&Wiz",
+      "agentID": "1234",
+      "agentCity": "TestAgentCity",
+      "jurisdiction": "Alabama",
+      "agentName": "TestAgent",
+      "newProductName": "AT Automation Addendum Product- Forms&Wiz 061228866",
+      "birthDate": "01\/01\/1980",
+      "ssn": "1234",
+      "emailAddress": "abcd@gmail.com",
+      "newActivityName": "AT Automation Addendum Product- 291212400",
+      "uiType": "React",
+      "name": "Bhau",
+      "signerFullName": "John Adesh Mate",
+      "id": "1234"
+    }
+  }
+}

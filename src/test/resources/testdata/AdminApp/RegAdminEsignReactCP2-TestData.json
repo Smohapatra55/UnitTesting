@@ -1,0 +1,53 @@
+{
+  "testData": {
+    "TC_002": {
+      "Validate Identity Verification": "chkIdVerification",
+      "organizationSaveMessage": "Organization saved.",
+      "product": "React Esign Product",
+      "groupSaveMessage": "Group saved.",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "signerFullName": "Shiba",
+      "newProductName": "AT React Esign Product 171149344",
+      "applicationPopup": "Initials are Required. Click Initials box to begin.",
+      "NewrecipientLink": "Recipient(s) can also use this link: https:\/\/flqa.insurancetechnologies.com\/MjB9",
+      "receipantLink(url)": "Recipient(s) can also use this link: https:\/\/flqa.insurancetechnologies.com\/MjB9"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    },
+    "TC_004": {
+      "groupSaveMessage": "Group saved.",
+      "product": "Dist Signing Product",
+      "jurisdiction": "Guam",
+      "uiType": "React",
+      "signerFullName": "Shiba",
+      "newProductName": "AT Dist Signing Product 181153214",
+      "applicationPopup": "Initials are Required. Click Initials box to begin.",
+      "id": "007",
+      "Agent Not Required to View All Pages": "AgentAllPageNotRequired",
+      "Require Signature Capture": "RequireSigPad",
+      "Enable Auto Submit": "EnableAutoSubmit"
+    },
+    "TC_005": {
+      "product": "Easy Signing Distributor",
+      "groupSaveMessage": "Group saved.",
+      "jurisdiction": "Alabama",
+      "emailLink": "https:\/\/flqa.insurancetechnologies.com\/0QXL",
+      "newProductName": "AT Easy Signing Distributor 191112850",
+      "applicationPopup": "Initials are Required. Click Initials box to begin.",
+      "NewrecipientLink": "Recipient(s) can also use this link: https:\/\/flqa.insurancetechnologies.com\/LC5J",
+      "receipantLink(url)": "Recipient(s) can also use this link: https:\/\/flqa.insurancetechnologies.com\/LC5J",
+      "passCode": "77348555",
+      "organizationSaveMessage": "Organization saved.",
+      "reviewerName": "ShankarRandom 191112850",
+      "uiType": "React",
+      "signerFullName": "Shiba",
+      "id": "007",
+      "passcode": "13459296",
+      "Passcode only Validation": "chkSupportPasscode",
+      "agentName1": "LitanRandom 150143814"
+    }
+  }
+}

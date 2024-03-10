@@ -1,0 +1,31 @@
+{
+  "testData": {
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    },
+    "AT_004": {
+      "product": "Form with wiz Designer Changes_OP",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Form with wiz Designer Changes_OP 121201446"
+    },
+    "TC_009": {
+      "product": "Form with wiz Designer Changes_OP",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Form with wiz Designer Changes_OP 131218123"
+    },
+    "TC_011": {
+      "product": "MaskingForm and Wiz_op",
+      "newActivityName": "AT MaskingForm and Wiz_op 141228499",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT MaskingForm and Wiz_op 141228499",
+      "dateMaskName": "DateMask_OP455",
+      "zipMaskName": "ZipMask_OP709",
+      "sSNMaskName": "SSNMask_OP263",
+      "phoneMaskName": "PhoneMask_OP422"
+    }
+  }
+}

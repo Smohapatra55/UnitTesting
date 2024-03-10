@@ -1,0 +1,185 @@
+{
+  "testData": {
+    "AT_009": {
+      "product": "Income Choice",
+      "newActivityName": "AT Income Choice 211248173",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT Income Choice 211248173"
+    },
+    "AT_010": {
+      "product": "Income Choice",
+      "newActivityName": "AT Income Choice 211242220",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT Income Choice 211242220"
+    },
+    "AT_011": {
+      "product": "Income Choice",
+      "newActivityName": "AT Income Choice 211252154",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT Income Choice 211252154"
+    },
+    "AT_013": {
+      "product": "Income Choice",
+      "newActivityName": "AT Income Choice 211211122",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT Income Choice 211211122"
+    },
+    "AT_014": {
+      "product": "Income Choice",
+      "newActivityName": "AT Income Choice 211218322",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT Income Choice 211218322"
+    },
+    "AT_053": {
+      "product": "Needs Determination Forms Only",
+      "groupSaveMessage": "Group saved.",
+      "fireLightAppLoginPage": "",
+      "expectedURLBack": "https:\/\/flqa.insurancetechnologies.com\/EGSTS\/login.aspx",
+      "urlValue": "https:\/\/www.google.com\/"
+    },
+    "AT_062": {
+      "product": "Decline ESign MVC UI",
+      "newActivityName": "AT Decline ESign MVC UI 211244530",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "newProductName": "AT Decline ESign MVC UI 211244530"
+    },
+    "TC_001": {
+      "lastnameforParty1": "Paliwal1",
+      "zipcodeforParty3": "33333-3333",
+      "product": "KOC 903 Graded Death Benefit Whole Life USA",
+      "lastnameforParty2": "Paliwal2",
+      "jurisdiction": "Alabama",
+      "lastnameforParty3": "Paliwal3",
+      "newProductName": "AT KOC 903 Graded Death Benefit Whole Life USA 211241973",
+      "stateforParty1": "AL",
+      "stateforParty2": "AK",
+      "stateforParty3": "AK",
+      "zipcodeforParty2": "22222-2222",
+      "zipcodeforParty1": "11111-1111",
+      "streetaddressforParty2": "Ajmer Road2",
+      "streetaddressforParty3": "Ajmer Road3",
+      "cityforParty1": "Jaipur1",
+      "newActivityName": "AT KOC 903 Graded Death Benefit Whole Life USA 211241973",
+      "streetaddressforParty1": "Ajmer Road1",
+      "cityforParty3": "Jaipur3",
+      "cityforParty2": "Jaipur2",
+      "uiType": "MVC",
+      "firstnameforParty1": "Arun1",
+      "councilNumber": "11111",
+      "firstnameforParty2": "Arun2",
+      "firstnameforParty3": "Arun3"
+    },
+    "TC_002": {
+      "product": "MA Annuity App Autofill Form Only",
+      "newActivityName": "AT RV Need Determination Form Only 211216991",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "newProductName": "AT RV Need Determination Form Only 211216991"
+    },
+    "TC_003": {
+      "product": "MA Annuity App Autofill Form Only",
+      "newActivityName": "AT RV Need Determination Without Template Form 211239451",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT RV Need Determination Without Template Form 211239451"
+    },
+    "TC_004": {
+      "product": "FL024 LN Custom Action Call Form From Same\/Different",
+      "newActivityName": "AT FL024 LN Custom Action Call Form From Same\/Different 211204763",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "newProductName": "AT FL024 LN Custom Action Call Form From Same\/Different 211204763"
+    },
+    "TC_005": {
+      "product": "FL024 LN Custom Action Call Form From Same\/Different",
+      "newActivityName": "AT FL024 LN Custom Action Call Form From Same\/Different 211202371",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "newProductName": "AT FL024 LN Custom Action Call Form From Same\/Different 211202371"
+    },
+    "TC_007": {
+      "riskResultCode": "ER",
+      "product": "FL024 LN Custom Action Call Form",
+      "orderNumber": "LN_OrderNumber",
+      "newActivityName": "AT FL024 LN Custom Action Call Form 211205724",
+      "orderNumber1": "287RGOT",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "riskResultMessage": "(General)SECURITY ALERT message(s) found., (General)",
+      "newProductName": "AT FL024 LN Custom Action Call Form 211205724",
+      "riskScore": "502"
+    },
+    "TC_015": {
+      "product": "Red required bubble form Only App",
+      "emailAddress": "testhexure@gmail.com",
+      "newActivityName": "AT Red required bubble form Only App 211200625",
+      "jurisdiction": "Alabama",
+      "name": "prakash sharma",
+      "uiType": "mvc",
+      "newProductName": "AT Red required bubble form Only App 211200625",
+      "id": "123456",
+      "birthDate": "11122000",
+      "ssn": "1234"
+    },
+    "TC_017": {
+      "product": "Easy Signing",
+      "emailAddress": "testhexure@gmail.com",
+      "newActivityName": "AT Easy Signing 211227266",
+      "jurisdiction": "Alabama",
+      "name": "prakash sharma",
+      "uiType": "mvc",
+      "newProductName": "AT Easy Signing 211236354",
+      "id": "123456",
+      "birthDate": "11122000",
+      "ssn": "1234"
+    },
+    "TC_019": {
+      "product": "Product with Optional Forms Only",
+      "emailAddress": "testhexure@gmail.com",
+      "newActivityName": "AT Product with Optional Forms Only 020133892",
+      "jurisdiction": "Alabama",
+      "name": "prakash sharma",
+      "uiType": "mvc",
+      "newProductName": "AT Product with Optional Forms Only 020133892",
+      "id": "123456",
+      "birthDate": "11122000",
+      "ssn": "1234"
+    },
+    "TC_024": {
+      "product": "FL024 GIACT Custom Action Call FORM",
+      "newActivityName": "AT FL024 GIACT Custom Action Call FORM 211233028",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT FL024 GIACT Custom Action Call FORM 211233028"
+    },
+    "TC_025": {
+      "product": "FL024 GIACT Custom Action Call FORM",
+      "newActivityName": "AT FL024 GIACT Custom Action Call FORM 211241432",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT FL024 GIACT Custom Action Call FORM 211241432"
+    },
+    "TC_026": {
+      "product": "FL024 GIACT Custom Action Call FORM",
+      "newActivityName": "AT FL024 GIACT Custom Action Call FORM 211254117",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT FL024 GIACT Custom Action Call FORM 211254117"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value",
+      "enableCustomSubmitPageId": "EnableCustomSubmitPage",
+      "enableAutoSubmitId": "EnableAutoSubmit",
+      "allowNigoSubmitId": "AllowNigoSubmit",
+      "disableSubmitId": "DisableSubmit",
+      "enableHTTPId": "EnableHTTPRedirectOnSubmit"
+    }
+  }
+}

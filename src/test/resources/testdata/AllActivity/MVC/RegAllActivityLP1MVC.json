@@ -1,0 +1,27 @@
+{
+  "testData": {
+    "AT_034": {
+      "riskResultCode": "ER",
+      "product": "RV Forms Only Test product",
+      "newActivityName": "AT RV Forms Only Test product 171209439",
+      "orderNumber1": "281VUNX",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "riskResultMessage": "(General)SECURITY ALERT message(s) found., (General)ORDER NUMBER: 281VUNX",
+      "newProductName": "AT RV Forms Only Test product 171209439",
+      "riskScore": "502"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    },
+    "AT_040": {
+      "product": "FL024 GIACT Custom Action Call FORM",
+      "newActivityName": "AT FL024 GIACT Custom Action Call FORM 181206110",
+      "orderNumber1": "281VUNX",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT FL024 GIACT Custom Action Call FORM 181206110"
+    }
+  }
+}

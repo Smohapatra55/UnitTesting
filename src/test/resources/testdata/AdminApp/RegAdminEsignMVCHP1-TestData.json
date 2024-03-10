@@ -1,0 +1,27 @@
+{
+  "testData": {
+    "TC_002": {
+      "groupSaveMessage": "Group saved.",
+      "product": "React ESign Product",
+      "signerPasscode": "65225187",
+      "jurisdiction": "Alabama",
+      "congratulations": "Congratulations, you have signed all the required document sets for this application",
+      "newProductName": "AT React ESign Product 221115569",
+      "birthDate": "10101950",
+      "ssn": "1234",
+      "cautionMessageJSON": "Caution: Without a client email address, the system cannot send out an email after application submission with information on how to retrieve the final signed documents for the application. Therefore, by clicking OK, you agree to provide the client with signed copies of the documents through another means.",
+      "signerUrl": "https:\/\/flqanext.insurancetechnologies.com\/77Nh",
+      "emailAddress": "testHexure@gmail.com",
+      "uiType": "mvc",
+      "name": "Owner Colorado",
+      "signerFullName": "signerNameColorado",
+      "id": "12345"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value",
+      "organizationSaveMessage": "Organization saved.",
+      "Validate Identity": "chkIdVerification"
+    }
+  }
+}

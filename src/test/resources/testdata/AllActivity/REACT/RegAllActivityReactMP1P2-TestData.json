@@ -1,0 +1,15 @@
+{
+  "testData": {
+    "TC_015": {
+      "product": "RV PRINT FORMS 2",
+      "newActivityName": "AT Addendum Signing 181253887",
+      "jurisdiction": "California",
+      "uiType": "React",
+      "newProductName": "AT Addendum Signing 181253887"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    }
+  }
+}

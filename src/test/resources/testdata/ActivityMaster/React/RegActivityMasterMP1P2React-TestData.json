@@ -1,0 +1,89 @@
+{
+  "testData": {
+    "AT_001": {
+      "product": "Auto Prod Forms+Wiz",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Auto Prod Forms+Wiz 101236114"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    },
+  "AT_002": {
+    "product": "ND Next Activity Forms And Wizards",
+    "jurisdiction": "Alabama",
+    "uiType": "React",
+    "newProductName": "AT ND Next Activity Forms And Wizards 111225073"
+  },
+    "AT_003": {
+      "product": "ND Next Activity Forms And Wizards",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT ND Next Activity Forms And Wizards 121253355"
+    },
+    "TC_013": {
+      "newOwnerName": "Deependra_ FLADEMO_Auto",
+      "product": "Lifetime income",
+      "newActivityName": "ATY Lifetime income",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Lifetime income 121253355",
+      "message": "Activity has a pending transfer of ownership."
+    },
+    "TC_001": {
+      "product": "Form&Wiz Product",
+      "newActivityName": "Lifetime Income AT_01",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Form&Wiz Product 131256936"
+    },
+    "TC_002": {
+      "product": "RV PRINT FORMS 2",
+      "newActivityName": "AT LifeTime Income 131259269",
+      "jurisdiction": "Alabama",
+      "dataEntryPercentage": "96%",
+      "uiType": "React",
+      "newProductName": "AT LifeTime Income 131259269"
+    },
+    "TC_004": {
+      "product": "Income Choice Wizard",
+      "newActivityName": "AT Income Choice Wizard 151256406",
+      "jurisdiction": "Alabama",
+      "dataEntryPercentage": "",
+      "uiType": "React",
+      "newProductName": "AT Income Choice Wizard 151256406",
+      "StoreDataPercentage": "95%"
+    },
+    "TC_003": {
+      "newIllustrationName": "newProductName",
+      "product": "Income Choice",
+      "owner_ResidentialAddress_Zipcode": "34545",
+      "newActivityName": "AT Income Choice 151248936",
+      "jurisdiction": "Alabama",
+      "illustrationName": "New Illustration - DSB Illustration",
+      "uiType": "MVC",
+      "owner_DOB": "11\/12\/2000",
+      "newProductName": "AT Income Choice 151248936",
+      "owner_LastName": "OwnerLN",
+      "owner_FirstName": "OwnerFN"
+    },
+    "TC_005": {
+      "product": "Income Choice Wizard",
+      "signerPasscode": "56235478",
+      "jurisdiction": "Alabama",
+      "newProductName": "AT Income Choice Wizard 181257238",
+      "message": "Activity has a pending transfer of ownership.",
+      "birthDate": "08091993",
+      "ssn": "1234",
+      "emailAddress": "testHexure@gmail.com",
+      "newActivityName": "AT Income Choice Wizard 181257238",
+      "dataEntryPercentage": "",
+      "uiType": "React",
+      "name": "OwnerName",
+      "signerFullName": "signerName",
+      "id": "78456",
+      "StoreDataPercentage": "96%"
+    }
+  }
+}

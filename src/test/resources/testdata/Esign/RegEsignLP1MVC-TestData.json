@@ -1,0 +1,68 @@
+{
+  "testData": {
+    "TC_145": {
+      "signerName1": "ShibaRandom 151200685",
+      "agentEmail": "dbhati@hexure.com",
+      "Newpasscode": "74275128",
+      "jurisdiction": "Alabama",
+      "cacheTimeoutMinutes": "1",
+      "newProductName": "AT Signers Passcode validation 151200685",
+      "agentName1": "ShibaRandom 151200685",
+      "recipientUrl": "https:\/\/flqa.insurancetechnologies.com\/hZH9",
+      "ssn": "1234",
+      "receipantEmail": "testhexure@gmail.com",
+      "reviewerName": "ShibaRandom 151200685",
+      "annuitantEmail": "https:\/\/flqa.insurancetechnologies.com\/jQn9",
+      "product": "Signers Passcode validation",
+      "agentName": "AUTOUser1",
+      "emailLink": "https:\/\/flqa.insurancetechnologies.com\/jQn9",
+      "passCode": "26888825",
+      "birthDate": "10101950",
+      "newActivityName": "AT Signers Passcode validation 151200685",
+      "insuredPasscode": "26888825",
+      "insuredEmail": "https:\/\/flqa.insurancetechnologies.com\/hZH9",
+      "uiType": "mvc",
+      "annuitantPasscode": "26888825",
+      "signerFullName": "ShibaRandom",
+      "receipantName": "RecipientNameRandom",
+      "receipantBirthdate": "10101950",
+      "receipantSsn": "1234"
+    },
+    "TC_002": {
+      "product": "Varun_NON-Limited_SalesAgreement",
+      "emailAddress": "testhexure@gmail.com",
+      "newActivityName": "AT Varun_NON-Limited_SalesAgreement 181243278",
+      "jurisdiction": "New York",
+      "name": "Owner Test",
+      "uiType": "mvc",
+      "emailLink": "https:\/\/flqa.insurancetechnologies.com\/6rq",
+      "agentName": "AUTOUser1",
+      "newProductName": "AT Varun_NON-Limited_SalesAgreement 181243278",
+      "id": "12345",
+      "birthDate": "01011970",
+      "ssn": "1234"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value",
+      "receipantEmail": "testhexure@gmail.com",
+      "headerExternalLogin": "Welcome",
+      "Validate Identity": "chkIdVerification"
+    },
+    "TC_019": {
+      "product": "Easy Signing",
+      "jurisdiction": "Mississippi",
+      "searchCount": "4",
+      "emailLink": "https:\/\/flqa.insurancetechnologies.com\/6rq",
+      "agentName": "AUTOUser1",
+      "newProductName": "AT Easy Signing 191247689",
+      "birthDate": "01011970",
+      "ssn": "1234",
+      "emailAddress": "testhexure@gmail.com",
+      "newActivityName": "AT Easy Signing 191247689",
+      "name": "Owner Test",
+      "uiType": "mvc",
+      "id": "12345"
+    }
+  }
+}

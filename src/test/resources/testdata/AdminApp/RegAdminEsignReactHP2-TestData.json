@@ -1,0 +1,21 @@
+{
+  "testData": {
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    },
+    "ACRE_003": {
+      "product": "Easy Signing Distributor",
+      "groupSaveMessage": "Group saved.",
+      "jurisdiction": "Alabama",
+      "Disable Decline E-Sign": "DisableDeclineEsign",
+      "uiType": "React",
+      "newProductName": "AT Easy Signing Distributor 121202936",
+      "applicationPopup": "Initials are Required. Click Initials box to begin.",
+      "signerFullName": "Shiba",
+      "NewrecipientLink": "Recipient(s) can also use this link: https:\/\/flqa.insurancetechnologies.com\/MjB9",
+      "receipantLink(url)": "Recipient(s) can also use this link: https:\/\/flqa.insurancetechnologies.com\/MjB9",
+      "organizationSaveMessage": "Organization saved."
+    }
+  }
+}

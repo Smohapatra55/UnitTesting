@@ -1,0 +1,32 @@
+{
+  "testData": {
+    "AT_034": {
+      "riskResultCode": "ER",
+      "product": "Lexis Nexis Pre Filled Forms And",
+      "jurisdiction": "Alabama",
+      "newProductName": "AT Lexis Nexis Pre Filled Forms And 191229785",
+      "newActivityName": "AT Lexis Nexis Pre Filled Forms And 191229785",
+      "orderNumber1": "281VUNX",
+      "uiType": "React",
+      "riskResultMessage": "(General)SECURITY ALERT message(s) found., (General)ORDER NUMBER: 281VUNX",
+      "riskScore": "502",
+      "popUpMessage1": "Back Office Action is being performed.",
+      "popUpMessage2": "A validation is being performed.",
+      "lexisNexisMessage1": "Back Office Action is being performed.",
+      "lexisNexisMessage2": "User validation is being performed."
+    },
+    "AT_040": {
+      "product": "FL024 GIACT Custom Action Call Wiz",
+      "newActivityName": "AT FL024 GIACT Custom Action Call Wiz 191231535",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT FL024 GIACT Custom Action Call Wiz 191231535",
+      "giactMessage1": "Back Office Action is being performed.",
+      "giactMessage2": "Account validation is being performed."
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    }
+  }
+}

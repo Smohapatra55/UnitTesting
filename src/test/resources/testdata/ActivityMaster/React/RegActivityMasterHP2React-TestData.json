@@ -1,0 +1,14 @@
+{
+  "testData": {
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    },
+    "AT_029": {
+      "product": "Lifetime Income",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Lifetime Income 301150806"
+    }
+  }
+}

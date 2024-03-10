@@ -1,0 +1,54 @@
+{
+  "testData": {
+    "TC_003": {
+      "uiType": "react"
+    },
+    "TC_002": {
+      "uiType": "react"
+    },
+    "TC_001": {
+      "fieldName": "",
+      "uiType": "react",
+      "TextBox2": "FIELD_10",
+      "Custom field": "FIELD_8",
+      "TextBox1": "FIELD_9"
+    },
+    "AT_110": {
+      "product": "Automation Product",
+      "agentLastName": "Nehe",
+      "stateLicence": "5555555",
+      "ownerBOD": "11\/11\/1976",
+      "jurisdiction": "Alabama",
+      "contractNumber": "333333",
+      "newProductName": "AT Automation Product 261201495",
+      "emailAddress": "testvizi66@gmail.com",
+      "newActivityName": "AT Automation Product 261201495",
+      "primaryBenefitPecentage": "100",
+      "uiType": "react",
+      "agentFirstname": "Vishal",
+      "comision": "10",
+      "name": "Ajay",
+      "ownerSSN": "1234",
+      "signerFullName": "John Adesh Mate",
+      "id": "ID2343",
+      "digit": "11",
+      "dobError": "Birth date does not match",
+      "birthDate": "10101950",
+      "ssn": "1234",
+      "ssnError": "SSN does not match"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value",
+      "groupSaveMessage": "Group saved.",
+      "enableCustomSubmitPageId": "EnableCustomSubmitPage",
+      "enableAutoSubmitId": "EnableAutoSubmit",
+      "allowNigoSubmitId": "AllowNigoSubmit",
+      "cacheTimeoutMinutes": "2",
+      "disableSubmitId": "DisableSubmit",
+      "enableHTTPId": "EnableHTTPRedirectOnSubmit",
+      "organizationSaveMessage": "Organization saved.",
+      "Validate Identity": "chkIdVerification"
+    }
+  }
+}

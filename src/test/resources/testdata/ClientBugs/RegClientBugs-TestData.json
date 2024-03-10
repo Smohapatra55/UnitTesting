@@ -1,0 +1,20 @@
+{
+  "testData": {
+    "CB_001": {
+      "product": "Perspective II (B Share)",
+      "emailAddress": "testemailhexure@gmail.com",
+      "newActivityName": "AT Perspective II (B Share) 280249803",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "name": "Signer Signer",
+      "newProductName": "AT Perspective II (B Share) 280249803",
+      "id": "123456",
+      "birthDate": "01-01-2001",
+      "ssn": "1234"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    }
+  }
+}

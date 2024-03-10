@@ -1,0 +1,20 @@
+trigger:
+- master
+
+pool:
+  vmImage: 'windows-latest'
+
+steps:
+
+
+- task: Maven@3
+  inputs:
+    mavenPomFile: 'pom.xml'
+    goals: 'package -DskipTests'
+
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    pathToPublish: 'D:\a\1\s\target\firelight-ui-automation-1.0-SNAPSHOT.jar'
+    artifactName: 'firelight-ui-automation-$(Build.BuildNumber)'
+    publishLocation: 'Container'

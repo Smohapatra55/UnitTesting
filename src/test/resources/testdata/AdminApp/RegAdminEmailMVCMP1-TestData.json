@@ -1,0 +1,51 @@
+{
+  "testData": {
+    "TC_001": {
+      "signerName1": "signerNameColoradoRandom 081210752",
+      "groupSaveMessage": "Group saved.",
+      "product": "ESign with Multiple signers",
+      "signerPasscode": "65225187",
+      "jurisdiction": "Alabama",
+      "emailLink": "https:\/\/flqa.insurancetechnologies.com\/Lq8J",
+      "newProductName": "AT ESign with Multiple signers 081210752",
+      "birthDate": "10101950",
+      "mailCurrentDate": "Friday, December 8, 2023",
+      "ssn": "1234",
+      "signerUrl": "https:\/\/flqanext.insurancetechnologies.com\/77Nh",
+      "emailAddress": "testHexure@gmail.com",
+      "printMailContent": "Dear signerName1,Thank you for signing the Application for 'ESign with Multiple signers' of FL Access Carrier - Automation 2.To download or print the signed documents, please click on the link at the bottom of the email. You will be asked for your birth date and the last 4 digits of your SSN to login.If you have questions please feel free to contact me.Sincerely,AutoUser1To download or print signed Application documents, click on emailLink and enter the last 4 digits of your SSN and your birth date.  If a new window does not automatically appear, you may have to copy the link and paste it into the address bar of a new browser window. Click link google.com to download Prospectus",
+      "uiType": "mvc",
+      "name": "Owner Colorado",
+      "signerFullName": "signerNameColoradoRandom",
+      "id": "12345",
+      "ProductLinkURL": "txtLinkValue"
+    },
+    "TC_005": {
+      "signerName1": "signerNameColoradoRandom 091212080",
+      "groupSaveMessage": "Group saved.",
+      "product": "Automation Product Link with Rule",
+      "signerPasscode": "65225187",
+      "jurisdiction": "Alabama",
+      "emailLink": "https:\/\/flqa.insurancetechnologies.com\/LJq",
+      "newProductName": "AT Automation Product Link with Rule 091212080",
+      "birthDate": "10101950",
+      "mailCurrentDate": "Saturday, December 9, 2023",
+      "ssn": "1234",
+      "signerUrl": "https:\/\/flqanext.insurancetechnologies.com\/77Nh",
+      "emailAddress": "testHexure@gmail.com",
+      "printMailContent": "Dear signerName1,Thank you for signing the Application for 'Automation Product Link with Rule' of FL Access Carrier - Automation 2.To download or print the signed documents, please click on the link at the bottom of the email. You will be asked for your birth date and the last 4 digits of your SSN to login.If you have questions please feel free to contact me.Sincerely,AutoUser1To download or print signed Application documents, click on emailLink and enter the last 4 digits of your SSN and your birth date.  If a new window does not automatically appear, you may have to copy the link and paste it into the address bar of a new browser window. Click link www.Insurancetechnologies.com to download Video Links",
+      "uiType": "mvc",
+      "name": "Owner Colorado",
+      "signerFullName": "signerNameColoradoRandom",
+      "id": "12345",
+      "ProductLinkURL": "txtLinkValue"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value",
+      "ProductLink": "ddlProdLinkTypes",
+      "EmailTemplate": "ddlTemplate",
+      "EmailCategory": "ddlCategory"
+    }
+  }
+}

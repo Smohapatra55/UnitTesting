@@ -1,0 +1,186 @@
+{
+  "testData": {
+    "AT_009": {
+      "product": "Lifetime Income",
+      "newActivityName": "AT Lifetime Income 271233063",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Lifetime Income 271233063"
+    },
+    "AT_010": {
+      "product": "Lifetime Income",
+      "newActivityName": "AT Lifetime Income 271258767",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Lifetime Income 271258767"
+    },
+    "AT_011": {
+      "product": "Lifetime Income",
+      "newActivityName": "AT Lifetime Income 271244324",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Lifetime Income 271244324"
+    },
+    "AT_012": {
+      "product": "Lifetime Income",
+      "newActivityName": "AT Lifetime Income 271239890",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Lifetime Income 271239890"
+    },
+    "AT_013": {
+      "product": "Lifetime Income",
+      "newActivityName": "AT Lifetime Income 150113568",
+      "jurisdiction": "Alabama",
+      "uiType": "react",
+      "newProductName": "AT Lifetime Income 150113568"
+    },
+    "AT_014": {
+      "product": "Lifetime Income",
+      "newActivityName": "AT Lifetime Income 271246968",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Lifetime Income 271246968"
+    },
+    "AT_053": {
+      "product": "Needs Determination Wizard Test",
+      "groupSaveMessage": "Group saved.",
+      "fireLightAppLoginPage": "",
+      "expectedURLBack": "https:\/\/flqa.insurancetechnologies.com\/EGSTS\/login.aspx",
+      "urlValue": "https:\/\/www.google.com\/",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Needs Determination Wizard Test 271146884",
+      "url": "https:\/\/www.google.com\/"
+    },
+    "AT_062": {
+      "product": "Automation Product",
+      "newActivityName": "AT Automation Product 271230721",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Automation Product 271230721"
+    },
+    "TC_002": {
+      "product": "MA Annuity App Autofill Form And Wizard both",
+      "newActivityName": "AT RV Need Determination 150152108",
+      "jurisdiction": "Alabama",
+      "uiType": "react",
+      "applicationPopup": "This application has one or more template forms with document tags: [Voided Check]. Please upload the related documents using Attach Documents.",
+      "newProductName": "AT RV Need Determination 150152108"
+    },
+    "TC_003": {
+      "product": "MA Annuity App Autofill Form And Wizard both",
+      "newActivityName": "AT RS Need Determination Without 271255291",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT RS Need Determination Without 271255291"
+    },
+    "TC_008": {
+      "product": "FL024 LN Custom Action Call WIZ OP",
+      "newActivityName": "AT FL024 LN Custom Action Call WIZ OP 271203260",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT FL024 LN Custom Action Call WIZ OP 271203260"
+    },
+    "TC_009": {
+      "product": "FL024 LN Custom Action Call WIZ OP",
+      "newActivityName": "AT FL024 LN Custom Action Call WIZ OP 271222253",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT FL024 LN Custom Action Call WIZ OP 271222253"
+    },
+    "TC_010": {
+      "product": "FL024 LN Custom Action Call WIZ OP",
+      "newActivityName": "AT FL024 LN Custom Action Call WIZ OP 271215150",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT FL024 LN Custom Action Call WIZ OP 271215150",
+      "popUpMessage1": "Back Office Action is being performed.",
+      "popUpMessage2": "A validation is being performed."
+    },
+    "TC_011": {
+      "product": "FL024 LN Custom Action Call WIZ OP",
+      "popUpMessage3": "User validation is being performed.",
+      "newActivityName": "AT FL024 LN Custom Action Call WIZ OP 271210521",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT FL024 LN Custom Action Call WIZ OP 271210521",
+      "popUpMessage1": "Back Office Action is being performed.",
+      "popUpMessage4": "Account validation is being performed.",
+      "popUpMessage2": "A validation is being performed."
+    },
+    "TC_014": {
+      "product": "ESign with Multiple signers",
+      "newActivityName": "AT ESign with Multiple signers 271211941",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT ESign with Multiple signers 271211941"
+    },
+    "TC_016": {
+      "product": "ESign with Multiple signers",
+      "newActivityName": "AT ESign with Multiple signers 271253948",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT ESign with Multiple signers 271253948"
+    },
+    "TC_018": {
+      "product": "Product with Optional Forms and",
+      "jurisdiction": "Alabama",
+      "newProductName": "AT Product with Optional Forms and 150149857",
+      "recipientUrl": "https:\/\/flqa.insurancetechnologies.com\/R9q",
+      "birthDate": "11122000",
+      "recipientPasscode": "27152174",
+      "ssn": "1234",
+      "emailAddress": "testhexure@gmail.com",
+      "receipantEmail": "extensible@gmail.com",
+      "newActivityName": "AT Product with Optional Forms and 150149857",
+      "name": "prakash sharma",
+      "uiType": "react",
+      "id": "123456",
+      "receipantBirthdate": "11\/11\/1976",
+      "receipantName": "Deepak",
+      "receipantSsn": "1234"
+    },
+    "TC_020": {
+      "product": "Contact Agent _Fill and Sign Form with",
+      "newActivityName": "AT Contact Agent _Fill and Sign Form with 271243900",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Contact Agent _Fill and Sign Form with 271243900"
+    },
+    "TC_021": {
+      "product": "FL024 GIACT Custom Action Call Wiz",
+      "newActivityName": "AT FL024 GIACT Custom Action Call Wiz 271240579",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT FL024 GIACT Custom Action Call Wiz 271240579"
+    },
+    "TC_022": {
+      "product": "FL024 GIACT Custom Action Call Wiz",
+      "newActivityName": "AT FL024 GIACT Custom Action Call Wiz 271216573",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT FL024 GIACT Custom Action Call Wiz 271216573"
+    },
+    "TC_023": {
+      "product": "FL024 GIACT Custom Action Call Wiz",
+      "newActivityName": "AT FL024 GIACT Custom Action Call Wiz 271240552",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT FL024 GIACT Custom Action Call Wiz 271240552"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value",
+      "popUpMessage3": "User validation is being performed.",
+      "enableCustomSubmitPageId": "EnableCustomSubmitPage",
+      "popUpMessage4": "Account validation is being performed.",
+      "enableAutoSubmitId": "EnableAutoSubmit",
+      "allowNigoSubmitId": "AllowNigoSubmit",
+      "disableSubmitId": "DisableSubmit",
+      "popUpMessage1": "Back Office Action is being performed.",
+      "popUpMessage2": "A validation is being performed.",
+      "enableHTTPId": "EnableHTTPRedirectOnSubmit"
+    }
+  }
+}

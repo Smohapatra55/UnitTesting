@@ -1,0 +1,14 @@
+{
+  "testData": {
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value"
+    },
+    "AT_105": {
+      "product": "Demo Product for Automation",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "newProductName": "AT Demo Product for Automation 021212713"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "testData": {
+    "TC_003": {
+      "uiType": "mvc",
+      "Search Rule Set": "SearchStr"
+    },
+    "TC_002": {
+      "product": "DSB New Account Opening",
+      "emailAddress": "testHexure@gmail.com",
+      "newActivityName": "AT DSB New Account Opening 090120221",
+      "jurisdiction": "Alabama",
+      "uiType": "react",
+      "name": "AP",
+      "newProductName": "AT DSB New Account Opening 090120221",
+      "id": "5555",
+      "birthDate": "09081999",
+      "ssn": "9876"
+    },
+    "TC_001": {
+      "product": "Need Determination FL024",
+      "emailAddress": "testHexure@gmail.com",
+      "newActivityName": "AT Need Determination FL024 170112168",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "name": "AP",
+      "newProductName": "AT Need Determination FL024 170112168",
+      "id": "5555",
+      "birthDate": "09081999",
+      "ssn": "9876"
+    },
+    "TC_007": {
+      "Search Product": "SearchStr",
+      "uiType": "mvc",
+      "replaceRuleSetPopup": "Are you sure you want to replace this Form/Wizard in selected package(s)?"
+    },
+    "TC_006": {
+      "Search Product": "SearchStr",
+      "uiType": "mvc",
+      "replaceRuleSetPopup": "Are you sure you want to replace this Form/Wizard in selected package(s)?"
+    },
+    "TC_005": {
+      "Search Product": "SearchStr",
+      "uiType": "mvc",
+      "replaceRuleSetPopup": "Do you confirm to replace \"RV Test rule set 1\" with \"RV Test rule set 2\" in the selected Package(s)?\n\nNote: Replacing assigned Rule Set in the Package will also replace the Primary Rule Set for the Form/Wizard present in the selected Package(s)."
+    },
+    "TC_004": {
+      "errorMessage4": "Please select link name.",
+      "errorMessage5": "Please enter URL value.",
+      "ProductLink": "ddlProdLinkTypes",
+      "uiType": "mvc",
+      "Search Rule Set": "SearchStr",
+      "ProductLinkURL": "txtLinkValue"
+    },
+    "commonTestData": {
+      "RV Test Package 2": "PackageInFormsList_7__isChecked",
+      "RV Test Package 1": "PackageInFormsList_6__isChecked",
+      "RV Test Package 02": "PackageInFormsList_1__isChecked",
+      "RV Test Package 01": "PackageInFormsList_0__isChecked",
+      "RVTestPackage01": "PackageInFormsList_4__isChecked",
+      "RVTestPackage2": "RuleSetInPackageList_2__isChecked",
+      "RVTestPackage1": "RuleSetInPackageList_1__isChecked",
+      "RVTestPackage02": "PackageInFormsList_5__isChecked",
+      "RV Test Package01": "RuleSetInPackageList_1__isChecked",
+      "RV Test Package02": "RuleSetInPackageList_2__isChecked"
+    },
+    "TC_009": {
+      "Search Product": "SearchStr",
+      "uiType": "mvc",
+      "salesAgreementBatchErrorMessage": "*A name is required to save a batch",
+      "txtBatch": "Save Batch 1",
+      "salesAgreementSaveMessage": "Sales Agreement saved.",
+      "replaceRuleSetPopup": "Are you sure you want to copy the Sales Agreement? \n 1 Sales Agreements will be overwritten"
+    },
+    "TC_008": {
+      "Search Product": "SearchStr",
+      "uiType": "mvc",
+      "salesAgreementSaveMessage": "Sales Agreement saved."
+    }
+  }
+}

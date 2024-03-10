@@ -1,0 +1,66 @@
+{
+  "testData": {
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value",
+      "enableCustomSubmitPageId": "EnableCustomSubmitPage",
+      "enableAutoSubmitId": "EnableAutoSubmit",
+      "allowNigoSubmitId": "AllowNigoSubmit",
+      "cacheTimeoutMinutes": "2",
+      "disableSubmitId": "DisableSubmit",
+      "enableHTTPId": "EnableHTTPRedirectOnSubmit"
+    },
+    "AT_054": {
+      "product": "Needs Determination Forms Only",
+      "jurisdiction": "Alabama",
+      "uiType": "mvc",
+      "url": "https:\/\/www.google.com\/",
+      "enableHTTPId": "EnableHTTPRedirectOnSubmit"
+    },
+    "AT_030": {
+      "groupSaveMessage": "Group saved.",
+      "product": "Income Choice",
+      "storeDataPercentage": "95",
+      "jurisdiction": "Alabama",
+      "newProductName": "AT Income Choice 281129536",
+      "organizationSaveMessage": "Organization saved.",
+      "ssn": "1234",
+      "emailAddress": "testhexure@gmail.com",
+      "uiType": "mvc",
+      "name": "arun",
+      "PrintSubmittedOnly": "SelectedOrganization_PrintSubmittedOnly",
+      "AllowNIGOPrinting": "SelectedOrganization_AllowNIGOPrinting",
+      "id": "1234",
+      "StoreDataPercentage": "95",
+      "birthDate": "10101996",
+      "popupMessage1": "To print or view the application, history or documents, click on Other Actions."
+    },
+    "AT_053": {
+      "product": "Needs Determination Forms Only",
+      "groupSaveMessage": "Group saved.",
+      "fireLightAppLoginPage": "",
+      "expectedURLBack": "https:\/\/flqa.insurancetechnologies.com\/EGSTS\/login.aspx",
+      "urlValue": "https:\/\/www.google.com\/",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "url": "https:\/\/www.google.com\/"
+    },
+    "TC_004": {
+      "uiType": "mvc",
+      "url": "https:\/\/www.google.com\/",
+      "enableHTTPId": "EnableHTTPRedirectOnSubmit",
+      "flAppUrl": "https://flqa.insurancetechnologies.com/EGApp",
+      "adminUrl": "https://flqa.insurancetechnologies.com/EGAdmin"
+    },
+    "AT_048": {
+      "product": "Income Choice",
+      "groupSaveMessage": "Group saved.",
+      "fireLightAppLoginPage": "",
+      "expectedURLBack": "https:\/\/flqa.insurancetechnologies.com\/EGSTS\/login.aspx",
+      "urlValue": "https:\/\/www.google.com\/",
+      "jurisdiction": "Alabama",
+      "uiType": "MVC",
+      "newProductName": "AT Income Choice 221202867"
+    }
+  }
+}

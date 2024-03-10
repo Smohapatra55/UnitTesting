@@ -1,0 +1,33 @@
+{
+  "testData": {
+    "AT_054": {
+      "product": "Needs Determination Wizard Test",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Needs Determination Wizard Test 231102542",
+      "url": "https:\/\/www.google.com\/",
+      "enableHTTPId": "EnableHTTPRedirectOnSubmit"
+    },
+    "AT_053": {
+      "product": "Needs Determination Wizard Test",
+      "groupSaveMessage": "Group saved.",
+      "fireLightAppLoginPage": "",
+      "expectedURLBack": "https:\/\/flqa.insurancetechnologies.com\/EGSTS\/login.aspx",
+      "urlValue": "https:\/\/www.google.com\/",
+      "jurisdiction": "Alabama",
+      "uiType": "React",
+      "newProductName": "AT Needs Determination Wizard Test 281155943",
+      "url": "https:\/\/www.google.com\/"
+    },
+    "commonTestData": {
+      "key1": "value",
+      "key2": "value",
+      "enableCustomSubmitPageId": "EnableCustomSubmitPage",
+      "enableAutoSubmitId": "EnableAutoSubmit",
+      "allowNigoSubmitId": "AllowNigoSubmit",
+      "cacheTimeoutMinutes": "2",
+      "disableSubmitId": "DisableSubmit",
+      "enableHTTPId": "EnableHTTPRedirectOnSubmit"
+    }
+  }
+}
