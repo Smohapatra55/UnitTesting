@@ -144,31 +144,3 @@ Feature: FireLight_Regression_ClientBugs_TestCases
     Then User Enters Agent City as "Great City" Perform Signature, I Consent
     Then User Clicks Continue Button
     Then User Clicks on yes Confirmation dialog
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
