@@ -12,6 +12,7 @@ import com.hexure.firelight.pages.RCTCompleteFillingAndSigningPage;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Then;
 import io.cucumber.datatable.DataTable;
+import org.apache.commons.lang.RandomStringUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
@@ -3645,5 +3646,67 @@ public class DataEntry_StepDefinitions extends FLUtilities {
     public void user_verifies_Combox_is_not_present_on_page() {
         captureScreenshot(driver, testContext, false);
         Assert.assertFalse("Combo Box present", getElements(driver, onDataEntryPage.getDdComboBoxMVC()).size()>0 | getElements(driver,onDataEntryPage.getDdComboBoxReact()).size() > 0);
+    }
+
+
+    @Then("User enters the message content")
+    public void User_Enters_The_Message_Content(DataTable dataTable) {
+        waitForPageToLoad(driver);
+        captureScreenshot(driver, testContext, false);
+        String dynamicNumber = RandomStringUtils.randomNumeric(3);
+        addPropertyValueInJSON(testContext.getTestCaseID(), testContext, "dynamicNumber", dynamicNumber);
+        List<Map<String, String>> formFields = dataTable.asMaps(String.class, String.class);
+        for (Map<String, String> fieldData : formFields) {
+            String inputValue = fieldData.get("Value");
+            String fieldType = fieldData.get("FieldType");
+            String id = fieldData.get("Id");
+            String locatorType = fieldData.get("Locator Type");
+            String updatedInputValue = inputValue + "-" + dynamicNumber;
+            switch (locatorType) {
+                case "textarea":
+                    if (fieldType.equalsIgnoreCase("default")) {
+                        syncElement(driver, findElement(driver, String.format(onCreateApplicationPage.txt_AllInputField, id)), EnumsCommon.TOCLICKABLE.getText());
+                        sendKeys(driver, findElement(driver, String.format(onCreateApplicationPage.txt_AllInputField, id)), inputValue);
+                    } else {
+                        syncElement(driver, findElement(driver, String.format(onCreateApplicationPage.txt_AllInputField, id)), EnumsCommon.TOCLICKABLE.getText());
+                        sendKeys(driver, findElement(driver, String.format(onCreateApplicationPage.txt_AllInputField, id)), updatedInputValue);
+                    }
+                    break;
+                default:
+                    throw new FLException("Invalid locator type : " + locatorType);
+            }
+        }
+    }
+
+    @Then("User verifies hyperlinks present in the popup")
+    public void User_verifies_hyperlinks_present_in_popup() {
+        captureScreenshot(driver, testContext, false);
+        syncMultipleElement(driver, onDataEntryPage.getHyperLinks(), EnumsCommon.TOVISIBLE.getText());
+        for (WebElement singleHyperLink : onDataEntryPage.getHyperLinks()) {
+            Assert.assertTrue("href was different than expected", singleHyperLink.getAttribute("href").contains(testContext.getMapTestData().get("enterMoreDataUrl")) | singleHyperLink.getAttribute("href").contains(testContext.getMapTestData().get("continueButtonUrl")));
+        }
+    }
+
+    @Then("User verifies the message content")
+    public void User_Verifies_The_Message_Content(DataTable dataTable) {
+        waitForPageToLoad(driver);
+        captureScreenshot(driver, testContext, false);
+        List<Map<String, String>> formFields = dataTable.asMaps(String.class, String.class);
+        for (Map<String, String> fieldData : formFields) {
+            String inputValue = fieldData.get("Value");
+            String id = fieldData.get("Id");
+            String locatorType = fieldData.get("Locator Type");
+            inputValue = inputValue + "-" + testContext.getMapTestData().get("dynamicNumber");
+            System.out.println("----???" + inputValue);
+            System.out.println("---->>>" + onDataEntryPage.getText_Popup().getText());
+            switch (locatorType) {
+                case "textarea":
+                    syncElement(driver, onDataEntryPage.getText_Popup(), EnumsCommon.TOCLICKABLE.getText());
+                    Assert.assertTrue("messsage content doesn't match", onDataEntryPage.getText_Popup().getText().contains(inputValue));
+                    break;
+                default:
+                    throw new FLException("Invalid locator type : " + locatorType);
+            }
+        }
     }
 }

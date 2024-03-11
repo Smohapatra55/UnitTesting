@@ -1221,6 +1221,12 @@ public class DataEntryPage extends FLUtilities {
     @FindBy(xpath = "//button[@data-dataitemid='Owner_Risk_Button']")
     private WebElement btn_RiskClassifierReact;
 
+    @FindBy(xpath = "//div[@id='divStatusNotice']/span/a")
+    private List<WebElement> hyperLinks;
+
+    @FindBy(xpath = "//div[@id='divStatusNotice']/span")
+    private WebElement text_Popup;
+
     private String listForms = "//li[@class='listViewItem']/a[contains(text(),'%s')]";
 
     private String formMenu = "//div[@id='divForms']//a[contains(text(),'%s')]/following-sibling::a[contains(text(),'%s')]";
