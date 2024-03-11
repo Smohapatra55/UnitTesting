@@ -193,6 +193,7 @@ public class Common_StepDefinitions extends FLUtilities {
             case "Save Organization":
             case "Save Product Config":
             case "Save Sales Agreement":
+            case "Save Activity":
                 clickElement(driver, onTabAppPage.getBtn_Save());
                 break;
             case "Save Template":

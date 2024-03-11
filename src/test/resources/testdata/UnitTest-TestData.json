@@ -1,1 +1,44 @@
-{"testData":{"commonTestData":{"key2":"value","cacheTimeoutMinutes":"65","organizationSaveMessage":"Organization saved."},"TC_01":{"product":"Income Choice","messageElectronicReviewDecline-1":"You have declined to use E-Review. All necessary reviews and approvals for this application must be collected manually.","Maximum Upload File Size Single":"ddlMaxSize","jurisdiction":"Alabama","reviewerUrl":"https:\/\/flqa.insurancetechnologies.com\/Q7w2","newProductName":"AT Income Choice 100328276","applicationFinishToastPopupMessage":"Application is pending transmission.","messageESignDecline-1":"You have declined to use E-Signature. All signatures for this application must be collected manually.","Maximum Upload File Size Cumulative":"ddlCumMaxSize","messageESignDecline-2":"To upload wet signed documents, click on 'Other Actions' and select 'Documents'.","messageESignDecline-3":"To revise your decision, click on 'Other Actions' and select 'Unlock Application'.","actionRemarks":" Test Comment for ","reviewerPasscode":"82311284","newActivityName":"AT Income Choice 100328276","uiType":"MVC","messageElectronicReviewDecline-2":"To revise your decision, click on 'Other Action', select 'Unlock Application'."}}}
+{
+  "testData": {
+    "commonTestData": {
+      "key2": "value",
+      "cacheTimeoutMinutes": "65",
+      "organizationSaveMessage": "Organization saved."
+    },
+    "TC_01": {
+      "product": "Income Choice",
+      "messageElectronicReviewDecline-1": "You have declined to use E-Review. All necessary reviews and approvals for this application must be collected manually.",
+      "Maximum Upload File Size Single": "ddlMaxSize",
+      "jurisdiction": "Alabama",
+      "reviewerUrl": "https:\/\/flqa.insurancetechnologies.com\/Q7w2",
+      "newProductName": "AT Income Choice 100328276",
+      "applicationFinishToastPopupMessage": "Application is pending transmission.",
+      "messageESignDecline-1": "You have declined to use E-Signature. All signatures for this application must be collected manually.",
+      "Maximum Upload File Size Cumulative": "ddlCumMaxSize",
+      "messageESignDecline-2": "To upload wet signed documents, click on 'Other Actions' and select 'Documents'.",
+      "messageESignDecline-3": "To revise your decision, click on 'Other Actions' and select 'Unlock Application'.",
+      "actionRemarks": " Test Comment for ",
+      "reviewerPasscode": "82311284",
+      "newActivityName": "AT Income Choice 100328276",
+      "uiType": "MVC",
+      "messageElectronicReviewDecline-2": "To revise your decision, click on 'Other Action', select 'Unlock Application'."
+    },
+    "TC_02": {
+      "product": "Automation Product2",
+      "groupSaveMessage": "Group saved.",
+      "jurisdiction": "Alabama",
+      "enterMoreDataUrl": "https:\/\/flqanext.insurancetechnologies.com\/EGApp\/EditApplication",
+      "newProductName": "AT Automation Product2 110314511",
+      "applicationPopup": "Initials are Required. Click Initials box to begin.",
+      "NewrecipientLink": "Recipient(s) can also use this link: https:\/\/flqa.insurancetechnologies.com\/MjB9",
+      "receipantLink(url)": "Recipient(s) can also use this link: https:\/\/flqa.insurancetechnologies.com\/MjB9",
+      "dynamicNumber": "497",
+      "organizationSaveMessage": "Organization saved.",
+      "Validate Identity Verification": "chkIdVerification",
+      "newActivityName": "AT Automation Product2 110314511",
+      "uiType": "React",
+      "signerFullName": "Shiba",
+      "continueButtonUrl": "https:\/\/flqanext.insurancetechnologies.com\/EGApp\/eSign"
+    }
+  }
+}

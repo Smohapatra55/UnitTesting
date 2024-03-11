@@ -268,8 +268,8 @@ public class AdminProduct_StepDefinitions extends FLUtilities {
 
     @Then("User Clicks on {string} Button in Admin Page")
     public void user_Clicks_on_Button_in_Admin_Page(String button) {
-        waitForPageToLoad(driver);
         captureScreenshot(driver, testContext, false);
+        syncElement(driver, findElement(driver,String.format(onAdminProductPage.getButtonPageWorkflow(),button)), EnumsCommon.TOCLICKABLE.getText());
         clickElementByJSE(driver,findElement(driver,String.format(onAdminProductPage.getButtonPageWorkflow(),button)));
     }
 

@@ -172,3 +172,60 @@ Feature: FireLight_Unit_Test
     Then User Verifies Organization Setting Saved
     Then User clicks "Log Off" from Menu options
     Then User Verifies message "Thank you for using our application"
+
+  @AdminTests1  @UnitTest
+  Scenario: TC_02-A Pop-Up Customise Message
+    Given User is on FireLight Admin login page for TestCase "UnitTest_TC_02"
+    Then User on Login Page enters valid username as "AUTOUser1_FLADEMO" and password and clicks Login button
+    Then User clicks "Activities" Tab
+    Then User selects "Application" from list Activities
+    Then User clicks on "Edit Activity Pop-up Messages" button on admin
+    Then User clicks "Data Entry Complete Message" PopupID on Activity Pop-up Messages dailog box
+    Then User enters the message content
+      | Value                                                                                                                                                                                          | Id            | Locator Type | FieldType |
+      | Data Entry has met the requirements. You may <HYPER_LINK ENTER_MORE_DATA_ACTION>enter more data</HYPER_LINK> or <HYPER_LINK CONTINUE_ACTION>CONTINUE</HYPER_LINK> to proceed to the next step. | SelectedValue | textarea     |           |
+    Then User Clicks on "Save" Button in Admin Page
+    Then User clicks "Save Activity" button
+    Then User verifies "Application Saved Successfully" message is displayed
+    Then User Logs off from Admin page
+    Then User opens "Firelight" Application Login Page
+    Then User on Login Page enters valid username as "AUTOUser1_FLADEMO" and password and clicks Login button
+    Then User clicks "Application" Tab
+    Then User selects Jurisdiction "Alabama"
+    Then User selects Product Type Dropdown "All"
+    Then User selects Given Product "Automation Product2"
+    Then User clicks "Create" button
+    Then User enters new Application name
+    Then User clicks on Create button on Rename window
+    Then User sets values for prefilled form
+      | Field          | Value         | data-dataitemid                  | Locator Type |
+      | Contact Number | 1234567890    | Contract_Number                  | Input        |
+    Then User clicks "Next Page" button 3 times till last page
+    Then User sets values for prefilled form
+      | Field            | Value   | data-dataitemid  | Locator Type |
+      | Agent First Name | AgentFN | Agent_FirstName  | Input        |
+      | Agent Last Name  | AgentLN | Agent_LastName   | Input        |
+      | STATE LICENCE #  | 12345   | Agent_FLIDNumber | Input        |
+      | PERCENTAGE       | 100     | Agent_Commission | Input        |
+    Then User clicks "Next Page" button 1 times till last page
+    Then User verifies hyperlinks present in the popup
+    Then User verifies the message content
+      | Value                                                                                                 | Id            | Locator Type |
+      | Data Entry has met the requirements. You may enter more data or CONTINUE to proceed to the next step. | SelectedValue | textarea     |
+    Then User Logs Off from the current Application and clicks "ok" on Confirmation Dialog
+
+  @UnitTest @AdminTests1 @UpdateAdminSettings
+  Scenario: TC_02-Pop-Up Customise Message
+    Given User is on FireLight Admin login page for TestCase "UnitTest_TC_02"
+    Then User on Login Page enters valid username as "AUTOUser1_FLADEMO" and password and clicks Login button
+    Then User clicks "Activities" Tab
+    Then User selects "Application" from list Activities
+    Then User clicks on "Edit Activity Pop-up Messages" button on admin
+    Then User clicks "Data Entry Complete Message" PopupID on Activity Pop-up Messages dailog box
+    Then User enters the message content
+      | Value                                                                                                                                                                                          | Id            | Locator Type | FieldType |
+      | Data Entry has met the requirements. You may <HYPER_LINK ENTER_MORE_DATA_ACTION>enter more data</HYPER_LINK> or <HYPER_LINK CONTINUE_ACTION>CONTINUE</HYPER_LINK> to proceed to the next step. | SelectedValue | textarea     | default   |
+    Then User Clicks on "Save" Button in Admin Page
+    Then User clicks "Save Activity" button
+    Then User verifies "Application Saved Successfully" message is displayed
+    Then User Logs off from Admin page

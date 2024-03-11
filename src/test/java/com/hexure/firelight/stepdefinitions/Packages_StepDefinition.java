@@ -216,4 +216,12 @@ public class Packages_StepDefinition extends FLUtilities {
         syncElement(driver, packagePage.getTxt_SingleLabelSales(),EnumsCommon.TOVISIBLE.getText());
         Assert.assertTrue(option + "Single Label is NOT showing", packagePage.getTxt_SingleLabelSales().isDisplayed());
     }
+
+    @Then("User clicks {string} PopupID on Activity Pop-up Messages dailog box")
+    public void User_clicks_PopupID_on_Activity_Pop_up_Messages_dailog_box(String popupIdName){
+        waitForPageToLoad(driver);
+        captureScreenshot(driver, testContext, false);
+        syncElement(driver, findElement(driver, String.format(packagePage.tabsOnPackage,popupIdName)), EnumsCommon.TOCLICKABLE.getText());
+        clickElement(driver, findElement(driver, String.format(packagePage.tabsOnPackage,popupIdName)));
+    }
 }
